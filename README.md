@@ -2,6 +2,7 @@
 *Intelligent RAG System for Indian Banking Regulations (RBI Master Directions & Circulars)*  
 *Submission for Dvara Group AI/ML & Generative AI Evaluation (Task 6)*
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/snehachinchakandi/FinReg-AI)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React 18](https://img.shields.io/badge/Frontend-React_18-61DAFB?logo=react&logoColor=black)](https://react.dev)
@@ -9,6 +10,11 @@
 [![Tests Passing](https://img.shields.io/badge/Tests-71%2F71_Passed-success)](file:///tests)
 [![Retrieval MRR](https://img.shields.io/badge/Retrieval_MRR-0.9714_(C2)-blueviolet)](file:///reports/technical_report.md)
 [![RBI Corpus](https://img.shields.io/badge/RBI_Corpus-13_Docs_%7C_345_Pages-orange)](file:///data/raw_documents)
+
+---
+
+> 🔗 **Live GitHub Repository:** [https://github.com/snehachinchakandi/FinReg-AI](https://github.com/snehachinchakandi/FinReg-AI)  
+> 🎥 **Embedded Video Walkthrough:** [Jump to Platform Video Demonstration](#-platform-video-demonstration)
 
 ---
 
