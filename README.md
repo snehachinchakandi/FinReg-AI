@@ -1,3 +1,7 @@
+
+
+
+
 # FinReg AI: Enterprise Regulatory Intelligence & Compliance Platform
 *Intelligent RAG System for Indian Banking Regulations (RBI Master Directions & Circulars)*  
 *Submission for Dvara Group AI/ML & Generative AI Evaluation (Task 6)*
@@ -19,10 +23,6 @@
 
 ---
 
-> 🔗 **Live GitHub Repository:** [https://github.com/snehachinchakandi/FinReg-AI](https://github.com/snehachinchakandi/FinReg-AI)  
-> 🎥 **Platform Demonstration Video:** [Watch on Google Drive](https://drive.google.com/file/d/1MymbWykRuqP7c0dqoOBri7Rt5P2H2j-k/view?usp=drive_link)
-
----
 
 ## 🌟 Executive Overview
 
@@ -298,11 +298,4 @@ This platform was developed using rigorous agentic AI workflows. Below are 5 key
 
 Watch the complete **platform walkthrough** showcasing the live Regulatory Copilot, Bi-Temporal Monitors, Compliance Matrix, Risk Evaluator, and Benchmark evaluation:
 
-<div align="center">
-  <br/>
-  <a href="https://drive.google.com/file/d/1MymbWykRuqP7c0dqoOBri7Rt5P2H2j-k/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/▶_WATCH_PLATFORM_DEMO-GOOGLE_DRIVE-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="42" alt="Watch Video on Google Drive" />
-  </a>
-  <br/><br/>
-  <p><b>Video Link:</b> <a href="https://drive.google.com/file/d/1MymbWykRuqP7c0dqoOBri7Rt5P2H2j-k/view?usp=drive_link" target="_blank">https://drive.google.com/file/d/1MymbWykRuqP7c0dqoOBri7Rt5P2H2j-k/view</a></p>
-</div>
+https://github.com/user-attachments/assets/f3d65177-e068-4501-800e-f1a92dbaa2f1
