@@ -3,6 +3,7 @@
 *Submission for Dvara Group AI/ML & Generative AI Evaluation (Task 6)*
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)](https://github.com/snehachinchakandi/FinReg-AI)
+[![Demo Video](https://img.shields.io/badge/Demo_Video-Google_Drive-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1MymbWykRuqP7c0dqoOBri7Rt5P2H2j-k/view?usp=drive_link)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React 18](https://img.shields.io/badge/Frontend-React_18-61DAFB?logo=react&logoColor=black)](https://react.dev)
@@ -14,7 +15,7 @@
 ---
 
 > 🔗 **Live GitHub Repository:** [https://github.com/snehachinchakandi/FinReg-AI](https://github.com/snehachinchakandi/FinReg-AI)  
-> 🎥 **Embedded Video Walkthrough:** [Jump to Platform Video Demonstration](#-platform-video-demonstration)
+> 🎥 **Platform Demonstration Video:** [Watch on Google Drive](https://drive.google.com/file/d/1MymbWykRuqP7c0dqoOBri7Rt5P2H2j-k/view?usp=drive_link)
 
 ---
 
@@ -289,18 +290,13 @@ This platform was developed using rigorous agentic AI workflows. Below are 5 key
 
 ## 🎥 Platform Video Demonstration
 
-Watch the complete **3-minute platform walkthrough** showcasing the live Regulatory Copilot, Bi-Temporal Monitors, Compliance Matrix, and Risk Evaluator:
-
-<!-- 
-NOTE: On GitHub, you can embed video files directly!
-1. Drag and drop your recorded MP4 video directly into this section while editing this README on GitHub.
-2. GitHub will automatically upload it to github-user-attachments and render a native HTML5 playable video player!
--->
+Watch the complete **platform walkthrough** showcasing the live Regulatory Copilot, Bi-Temporal Monitors, Compliance Matrix, Risk Evaluator, and Benchmark evaluation:
 
 <div align="center">
-  <video src="assets/finreg_ai_demo.mp4" controls width="100%" style="max-width: 850px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
-    <p>Your browser does not support the video tag. Watch the demo <a href="assets/finreg_ai_demo.mp4">here</a>.</p>
-  </video>
+  <br/>
+  <a href="https://drive.google.com/file/d/1MymbWykRuqP7c0dqoOBri7Rt5P2H2j-k/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/▶_WATCH_PLATFORM_DEMO-GOOGLE_DRIVE-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="42" alt="Watch Video on Google Drive" />
+  </a>
+  <br/><br/>
+  <p><b>Video Link:</b> <a href="https://drive.google.com/file/d/1MymbWykRuqP7c0dqoOBri7Rt5P2H2j-k/view?usp=drive_link" target="_blank">https://drive.google.com/file/d/1MymbWykRuqP7c0dqoOBri7Rt5P2H2j-k/view</a></p>
 </div>
-
-> *Tip: To play the video directly on GitHub, place your recorded MP4 inside an `assets/` folder as `assets/finreg_ai_demo.mp4`, or drag-and-drop the file directly into the GitHub Web Editor.*
