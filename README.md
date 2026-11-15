@@ -121,14 +121,15 @@ FinReg AI was evaluated across **4 architectural configurations** over a 50-quer
 
 | Config ID | Configuration | Chunking Strategy | Retrieval Strategy | Hit Rate@5 (n=35) | MRR (n=35) | Rank-1 Hits (n=35) | `q23` Rank | Status |
 |:---:|---|---|---|:---:|:---:|:---:|:---:|:--- |
-| **C1** | Fixed + Dense | Fixed (400w/75o) | Dense (FAISS FlatIP) | **1.0000** | 0.9143 | 30 / 35 (85.71%) | Rank 1 | Fully Verified |
+| **C1** | Fixed + Dense | Fixed (400w/75o) | Dense (FAISS FlatIP) | **1.0000** | 0.9143 | 29 / 35 (82.86%) | Rank 1 | Fully Verified |
 | **C2** | **Fixed + Hybrid** | **Fixed (400w/75o)** | **Hybrid (BM25 + RRF)** | **1.0000** | **0.9714** | **33 / 35 (94.29%)** | **Rank 1** | **Observed Retrieval Leader** |
-| **C3** | Section + Dense | Section-Aware | Dense (FAISS FlatIP) | **1.0000** | 0.8952 | 29 / 35 (82.86%) | Rank 1 | Fully Verified |
+| **C3** | Section + Dense | Section-Aware | Dense (FAISS FlatIP) | **1.0000** | 0.8952 | 28 / 35 (80.00%) | Rank 1 | Fully Verified |
 | **C4** | Section + Hybrid | Section-Aware | Hybrid (BM25 + RRF) | **1.0000** | 0.9129 | 30 / 35 (85.71%) | Rank 1 | Fully Verified |
 
-### Key Findings:
-1. **Retrieval Leader:** Configuration **C2 (Fixed + Hybrid RRF)** achieved the highest Mean Reciprocal Rank (**0.9714**), placing the correct statutory provision at **Rank 1 in 33 of 35 answerable questions**.
+### Key Findings & Generation Scope:
+1. **Retrieval Leader:** Configuration **C2 (Fixed + Hybrid RRF)** achieved the highest Mean Reciprocal Rank (**0.9714**), placing the correct statutory provision at **Rank 1 in 33 of 35 answerable questions (94.29%)**.
 2. **Corpus Coverage:** Adding the authentic 2019 e-mandate parent circular (`RBI_EMANDATE_2019`) resolved question `q23`, bringing Hit Rate@5 to **100% (35/35)** across all 4 configurations.
+3. **Generation Evaluation Disclosure:** Live answer-generation evaluation was partially constrained by Gemini API quota and network failures. Retrieval metrics are reported separately from generation-quality metrics; generation comparisons across all four configurations are therefore inconclusive. Configuration C2 is confirmed as the empirical retrieval MRR leader.
 
 ---
 
@@ -136,9 +137,9 @@ FinReg AI was evaluated across **4 architectural configurations** over a 50-quer
 
 | # | Document ID | Circular Reference | Title | Date | Pages | Status |
 |:-:|---|---|---|:---:|:---:|:---:|
-| 1 | `RBI_DL_2025` | `DOR.CRE.REC.14/21.07.001/2025-26` | Reserve Bank of India (Digital Lending) Directions, 2025 | 08-May-2025 | 17 | **Active** |
+| 1 | `RBI_DL_2025` | `RBI/2025-26/36 DOR.STR.REC.19/21.07.001/2025-26` | Reserve Bank of India (Digital Lending) Directions, 2025 | 08-May-2025 | 17 | **Active** |
 | 2 | `RBI_DL_2022` | `DOR.CRE.REC.66/21.07.001/2022-23` | Guidelines on Digital Lending | 02-Sep-2022 | 26 | **Superseded** |
-| 3 | `RBI_DLG_2023` | `DOR.STR.REC.20/21.04.048/2023-24` | Default Loss Guarantee (DLG) in Digital Lending | 08-Jun-2023 | 22 | **Superseded** |
+| 3 | `RBI_DLG_2023` | `RBI/2023-24/41 DOR.CRE.REC.21/21.07.001/2023-24` | Default Loss Guarantee (DLG) in Digital Lending | 08-Jun-2023 | 22 | **Superseded** |
 | 4 | `RBI_PENAL_2023` | `RBI/2023-24/53` | Fair Lending Practice – Penal Charges in Loan Accounts | 18-Aug-2023 | 30 | **Active** |
 | 5 | `RBI_PPI_MD_2021` | `DPSS.CO.PD.No.1415/02.14.006/2021-22` | Master Directions on Prepaid Payment Instruments (PPIs) | 27-Aug-2021 | 42 | **Active** |
 | 6 | `RBI_PPI_CREDIT_2022` | `DPSS.CO.PD.No.S-257/02.14.006/2022-23` | Restriction on Loading Non-Bank PPIs via Credit Lines | 20-Jun-2022 | 40 | **Active** |
