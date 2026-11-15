@@ -19,6 +19,11 @@
 
 ---
 
+> 🔗 **Live GitHub Repository:** [https://github.com/snehachinchakandi/FinReg-AI](https://github.com/snehachinchakandi/FinReg-AI)  
+> 🎥 **Platform Demonstration Video:** [Watch on Google Drive](https://drive.google.com/file/d/1MymbWykRuqP7c0dqoOBri7Rt5P2H2j-k/view?usp=drive_link)
+
+---
+
 ## 🌟 Executive Overview
 
 **FinReg AI** is an enterprise-grade, document-grounded Retrieval-Augmented Generation (RAG) platform specialized in Indian digital payments and lending regulations issued by the **Reserve Bank of India (RBI)**.
