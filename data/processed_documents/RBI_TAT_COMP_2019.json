@@ -1,0 +1,7130 @@
+{
+  "doc_id": "RBI_TAT_COMP_2019",
+  "title": "Harmonisation of Turn Around Time (TAT) and Customer Compensation for Failed Transactions",
+  "circular_no": "DPSS.CO.PD No.629/02.01.014/2019-20",
+  "regulator": "Reserve Bank of India (RBI)",
+  "publish_date": "2019-09-20",
+  "effective_date": "2019-10-15",
+  "is_active": true,
+  "superseded_by": null,
+  "supersedes": null,
+  "total_pages": 22,
+  "source_file": "C:\\Users\\sneha\\.gemini\\antigravity\\scratch\\FinReg-AI\\data\\raw_documents\\RBI_TAT_COMP_2019.pdf",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "RESERVE BANK OF INDIA\nDEPARTMENT OF REGULATION / PAYMENT AND SETTLEMENT SYSTEMS\nCENTRAL OFFICE, MUMBAI\n\nCircular: DPSS.CO.PD No.629/02.01.014/2019-20\nDate: 2019-09-20\n\nHARMONISATION OF TURN AROUND TIME (TAT) AND CUSTOMER COMPENSATION FOR FAILED\nTRANSACTIONS\n\n=========================================================================================\n\nHarmonisation of Turn Around Time (TAT) and customer compensation for failed\ntransactions using authorised Payment Systems\n\nRBI/2019-20/67\n\nDPSS.CO.PD No.629/02.01.014/2019-20\n\nSeptember 20, 2019\n\nAll Operators and Participants of Authorised Payment Systems\n\nMadam / Dear Sir,\n\nHarmonisation of Turn Around Time (TAT) and customer compensation for failed\ntransactions using authorised Payment Systems\n\nPlease refer to the\n\nStatement on Developmental and Regulatory policies\n\nissued as part of Monetary Policy statement dated April 4, 2019 wherein it was\nproposed that the Reserve Bank would put in place a framework on Turn Around Time\n(TAT) for resolution of customer complaints and compensation framework across all\nauthorised payment systems.\n\n2. It has been observed that a large number of customer complaints emanate on account\nof unsuccessful or ·failed· transactions. Failure could be on account of various\nfactors not directly attributable to the customer such as disruption of communication\nlinks, non-availability of cash in ATMs, time-out of sessions, non-credit to\nbeneficiary·s account due to various causes, etc. Rectification / Compensation paid\nto the customer for these ·failed· transactions is not uniform.\n\n3. After consultation with various stakeholders, the framework for TAT for failed\ntransactions and compensation therefor has been finalised which will result in\ncustomer confidence and bring in uniformity in processing of the failed transactions.\nThe same is enclosed as\n\nAnnex\n\nto this circular.\n\n4. It may be noted that :\n\nthe prescribed TAT is the outer limit for resolution of failed transactions; and\n\nPage 1 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            93.7874984741211,
+            389.7204895019531,
+            134.8404998779297
+          ],
+          "text": "RESERVE BANK OF INDIA\nDEPARTMENT OF REGULATION / PAYMENT AND SETTLEMENT SYSTEMS\nCENTRAL OFFICE, MUMBAI",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            141.78750610351562,
+            266.2585144042969,
+            168.8404998779297
+          ],
+          "text": "Circular: DPSS.CO.PD No.629/02.01.014/2019-20\nDate: 2019-09-20",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            175.78750610351562,
+            493.137451171875,
+            202.8404998779297
+          ],
+          "text": "HARMONISATION OF TURN AROUND TIME (TAT) AND CUSTOMER COMPENSATION FOR FAILED\nTRANSACTIONS",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            217.78750610351562,
+            547.7721557617188,
+            230.8404998779297
+          ],
+          "text": "=========================================================================================",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            237.78750610351562,
+            392.95068359375,
+            264.84051513671875
+          ],
+          "text": "Harmonisation of Turn Around Time (TAT) and customer compensation for failed\ntransactions using authorised Payment Systems",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            271.7875061035156,
+            120.53797912597656,
+            284.84051513671875
+          ],
+          "text": "RBI/2019-20/67",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            291.7875061035156,
+            228.2584991455078,
+            304.84051513671875
+          ],
+          "text": "DPSS.CO.PD No.629/02.01.014/2019-20",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            311.7875061035156,
+            140.0794677734375,
+            324.84051513671875
+          ],
+          "text": "September 20, 2019",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            331.7875061035156,
+            317.9955139160156,
+            344.84051513671875
+          ],
+          "text": "All Operators and Participants of Authorised Payment Systems",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            351.7875061035156,
+            131.07350158691406,
+            364.84051513671875
+          ],
+          "text": "Madam / Dear Sir,",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            371.7875061035156,
+            392.95068359375,
+            398.84051513671875
+          ],
+          "text": "Harmonisation of Turn Around Time (TAT) and customer compensation for failed\ntransactions using authorised Payment Systems",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            405.7875061035156,
+            131.62448120117188,
+            418.84051513671875
+          ],
+          "text": "Please refer to the",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            425.7875061035156,
+            277.8769836425781,
+            438.84051513671875
+          ],
+          "text": "Statement on Developmental and Regulatory policies",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            445.7875061035156,
+            416.2161865234375,
+            500.84051513671875
+          ],
+          "text": "issued as part of Monetary Policy statement dated April 4, 2019 wherein it was\nproposed that the Reserve Bank would put in place a framework on Turn Around Time\n(TAT) for resolution of customer complaints and compensation framework across all\nauthorised payment systems.",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            506.17498779296875,
+            486.2779846191406,
+            591.2890014648438
+          ],
+          "text": "2. It has been observed that a large number of customer complaints emanate on account\nof unsuccessful or ·failed· transactions. Failure could be on account of various\nfactors not directly attributable to the customer such as disruption of communication\nlinks, non-availability of cash in ATMs, time-out of sessions, non-credit to\nbeneficiary·s account due to various causes, etc. Rectification / Compensation paid\nto the customer for these ·failed· transactions is not uniform.",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            596.1749877929688,
+            459.9549865722656,
+            653.2890014648438
+          ],
+          "text": "3. After consultation with various stakeholders, the framework for TAT for failed\ntransactions and compensation therefor has been finalised which will result in\ncustomer confidence and bring in uniformity in processing of the failed transactions.\nThe same is enclosed as",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            659.7874755859375,
+            80.9324951171875,
+            672.8405151367188
+          ],
+          "text": "Annex",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            679.7874755859375,
+            115.23699188232422,
+            692.8405151367188
+          ],
+          "text": "to this circular.",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            698.1749877929688,
+            169.57696533203125,
+            713.2890014648438
+          ],
+          "text": "4. It may be noted that :",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            719.7874755859375,
+            372.38311767578125,
+            732.8405151367188
+          ],
+          "text": "the prescribed TAT is the outer limit for resolution of failed transactions; and",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            237.4879608154297,
+            785.3920288085938
+          ],
+          "text": "Page 1 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 21
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 2,
+      "text": "the banks and other operators / system participants shall endeavour towards quicker\nresolution of such failed transactions.\n\n5. Wherever financial compensation is involved, the same shall be effected to the\ncustomer·s account suo moto, without waiting for a complaint or claim from the\ncustomer.\n\n6. Customers who do not get the benefit of redress of the failure as defined in the\nTAT, can register a complaint with the\n\nReserve Bank - Integrated Ombudsman Scheme, 2021\n\n(as amended from time to time).\n\n7. This directive is issued under Section 10(2) read with Section 18 of the Payment\nand Settlement Systems Act, 2007 (Act 51 of 2007) and shall come into effect from\nOctober 15, 2019.\n\nYours faithfully\n\n(P. Vasudevan)\n\nChief General Manager\n\nEncl. : As above\n\nAnnex\n\n(Annex to Circular DPSS.CO.PD No.629/02.01.014/2019-20 dated September 20, 2019)\n\nHarmonisation of Turn Around Time (TAT) and customer compensation for\n\nfailed transactions using authorised Payment Systems\n\nGeneral Instructions covering the TAT :\n\n1. The principle behind the TAT is based on the following :\n\nIf the transaction is a ·credit-push· funds transfer and the beneficiary account is\nnot credited while the debit to originator has been effected, then credit is to be\neffected within the prescribed time period failing which the penalty has to be paid\nto the beneficiary;\n\nIf there is delay in initiation of a transaction at the originator bank·s end beyond\nthe TAT, then penalty has to be paid to the originator.\n\n2. A ·failed transaction· is a transaction which has not been fully completed due to\nany reason not attributable to the customer such as failure in communication links,\nnon-availability of cash in an ATM, time-out of sessions, etc. Failed transactions\nshall also include the credits which could not be effected to the beneficiary account\non account of lack of full information or lack of proper information and delay in\ninitiating a reversal transaction.\n\n3. Terms like, Acquirer, Beneficiary, Issuer, Remitter, etc., have meanings as per\ncommon banking parlance.\n\n4. T is the day of transaction and refers to the calendar date.\n\n5. R is the day on which the reversal is concluded and the funds are received by the\nissuer / originator. Reversal should be effected at the issuer / originator end on\n\nPage 2 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            73.7874984741211,
+            408.8252258300781,
+            100.84049987792969
+          ],
+          "text": "the banks and other operators / system participants shall endeavour towards quicker\nresolution of such failed transactions.",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            106.17500305175781,
+            448.3500671386719,
+            149.28900146484375
+          ],
+          "text": "5. Wherever financial compensation is involved, the same shall be effected to the\ncustomer·s account suo moto, without waiting for a complaint or claim from the\ncustomer.",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            154.1750030517578,
+            448.3830261230469,
+            183.28900146484375
+          ],
+          "text": "6. Customers who do not get the benefit of redress of the failure as defined in the\nTAT, can register a complaint with the",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            189.78750610351562,
+            285.8000183105469,
+            202.8404998779297
+          ],
+          "text": "Reserve Bank - Integrated Ombudsman Scheme, 2021",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            209.78750610351562,
+            188.62449645996094,
+            222.8404998779297
+          ],
+          "text": "(as amended from time to time).",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            228.1750030517578,
+            456.9190673828125,
+            271.28900146484375
+          ],
+          "text": "7. This directive is issued under Section 10(2) read with Section 18 of the Payment\nand Settlement Systems Act, 2007 (Act 51 of 2007) and shall come into effect from\nOctober 15, 2019.",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            277.7875061035156,
+            116.30098724365234,
+            290.84051513671875
+          ],
+          "text": "Yours faithfully",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            297.7875061035156,
+            119.47399139404297,
+            310.84051513671875
+          ],
+          "text": "(P. Vasudevan)",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            317.7875061035156,
+            152.7334747314453,
+            330.84051513671875
+          ],
+          "text": "Chief General Manager",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            337.7875061035156,
+            122.64698791503906,
+            350.84051513671875
+          ],
+          "text": "Encl. : As above",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            357.7875061035156,
+            80.9324951171875,
+            370.84051513671875
+          ],
+          "text": "Annex",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            377.7875061035156,
+            425.2127990722656,
+            390.84051513671875
+          ],
+          "text": "(Annex to Circular DPSS.CO.PD No.629/02.01.014/2019-20 dated September 20, 2019)",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            397.7875061035156,
+            367.6046447753906,
+            410.84051513671875
+          ],
+          "text": "Harmonisation of Turn Around Time (TAT) and customer compensation for",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            417.7875061035156,
+            282.0950012207031,
+            430.84051513671875
+          ],
+          "text": "failed transactions using authorised Payment Systems",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            437.7875061035156,
+            219.2620086669922,
+            450.84051513671875
+          ],
+          "text": "General Instructions covering the TAT :",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            456.17498779296875,
+            337.0849609375,
+            471.28900146484375
+          ],
+          "text": "1. The principle behind the TAT is based on the following :",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            477.7875061035156,
+            392.99810791015625,
+            532.8405151367188
+          ],
+          "text": "If the transaction is a ·credit-push· funds transfer and the beneficiary account is\nnot credited while the debit to originator has been effected, then credit is to be\neffected within the prescribed time period failing which the penalty has to be paid\nto the beneficiary;",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            539.7874755859375,
+            385.0942077636719,
+            566.8405151367188
+          ],
+          "text": "If there is delay in initiation of a transaction at the originator bank·s end beyond\nthe TAT, then penalty has to be paid to the originator.",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            572.1749877929688,
+            456.3140563964844,
+            657.2890014648438
+          ],
+          "text": "2. A ·failed transaction· is a transaction which has not been fully completed due to\nany reason not attributable to the customer such as failure in communication links,\nnon-availability of cash in an ATM, time-out of sessions, etc. Failed transactions\nshall also include the credits which could not be effected to the beneficiary account\non account of lack of full information or lack of proper information and delay in\ninitiating a reversal transaction.",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            662.1749877929688,
+            446.46905517578125,
+            691.2890014648438
+          ],
+          "text": "3. Terms like, Acquirer, Beneficiary, Issuer, Remitter, etc., have meanings as per\ncommon banking parlance.",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            696.1749877929688,
+            348.1069641113281,
+            711.2890014648438
+          ],
+          "text": "4. T is the day of transaction and refers to the calendar date.",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            716.1749877929688,
+            461.8139953613281,
+            745.2890014648438
+          ],
+          "text": "5. R is the day on which the reversal is concluded and the funds are received by the\nissuer / originator. Reversal should be effected at the issuer / originator end on",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            237.4879608154297,
+            785.3920288085938
+          ],
+          "text": "Page 2 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 23
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 3,
+      "text": "the same day when the funds are received from the beneficiary end.\n\n6. The term bank includes non-banks also and applies to them wherever they are\nauthorised to operate.\n\n7. Domestic transactions i.e., those where both the originator and beneficiary are\nwithin India are covered under this framework.\n\nHarmonisation of Turn Around Time (TAT) and customer compensation for\n\nfailed transactions using authorised Payment Systems\n\nSl. no.\n\nDescription of the incident\n\nFramework for auto-reversal and compensation\n\nTimeline for auto-reversal\n\nCompensation payable\n\nI\n\nII\n\nIII\n\nIV\n\n1\n\nAutomated Teller Machines (ATMs) including Micro-ATMs\n\na\n\nCustomer·s account debited but cash not dispensed.\n\nPro-active reversal (R) of failed transaction within a maximum of T + 5 days.\n\n· 100/- per day of delay beyond T + 5 days, to the credit of the account holder.\n\n2\n\nCard Transaction\n\na\n\nCard to card transfer\n\nCard account debited but the beneficiary card account not credited.\n\nTransaction to be reversed (R) latest within T + 1 day, if credit is not effected to\nthe beneficiary account.\n\n· 100/- per day of delay beyond T + 1 day.\n\nb\n\nPoint of Sale (PoS) (Card Present) including Cash at PoS\n\nAccount debited but confirmation not received at merchant location i.e., charge-slip\nnot generated.\n\nAuto-reversal within T + 5 days.\n\nPage 3 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            72.17500305175781,
+            385.385986328125,
+            87.28900146484375
+          ],
+          "text": "the same day when the funds are received from the beneficiary end.",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            92.17500305175781,
+            448.3499755859375,
+            121.28900146484375
+          ],
+          "text": "6. The term bank includes non-banks also and applies to them wherever they are\nauthorised to operate.",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            126.17500305175781,
+            446.5129699707031,
+            155.28900146484375
+          ],
+          "text": "7. Domestic transactions i.e., those where both the originator and beneficiary are\nwithin India are covered under this framework.",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            161.78750610351562,
+            367.6046447753906,
+            174.8404998779297
+          ],
+          "text": "Harmonisation of Turn Around Time (TAT) and customer compensation for",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            181.78750610351562,
+            282.0950012207031,
+            194.8404998779297
+          ],
+          "text": "failed transactions using authorised Payment Systems",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            201.78750610351562,
+            80.9324951171875,
+            214.8404998779297
+          ],
+          "text": "Sl. no.",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            221.78750610351562,
+            163.29747009277344,
+            234.8404998779297
+          ],
+          "text": "Description of the incident",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            241.78750610351562,
+            253.5664520263672,
+            254.8404998779297
+          ],
+          "text": "Framework for auto-reversal and compensation",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            261.7875061035156,
+            161.6919708251953,
+            274.84051513671875
+          ],
+          "text": "Timeline for auto-reversal",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            281.7875061035156,
+            151.15646362304688,
+            294.84051513671875
+          ],
+          "text": "Compensation payable",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            301.7875061035156,
+            56.64099884033203,
+            314.84051513671875
+          ],
+          "text": "I",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            321.7875061035156,
+            59.28199768066406,
+            334.84051513671875
+          ],
+          "text": "II",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            341.7875061035156,
+            61.922996520996094,
+            354.84051513671875
+          ],
+          "text": "III",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            361.7875061035156,
+            62.977500915527344,
+            374.84051513671875
+          ],
+          "text": "IV",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            381.7875061035156,
+            59.28200149536133,
+            394.84051513671875
+          ],
+          "text": "1",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            401.7875061035156,
+            297.35198974609375,
+            414.84051513671875
+          ],
+          "text": "Automated Teller Machines (ATMs) including Micro-ATMs",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            421.7875061035156,
+            59.28200149536133,
+            434.84051513671875
+          ],
+          "text": "a",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            441.7875061035156,
+            275.2550048828125,
+            454.84051513671875
+          ],
+          "text": "Customer·s account debited but cash not dispensed.",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            461.7875061035156,
+            373.1430358886719,
+            474.84051513671875
+          ],
+          "text": "Pro-active reversal (R) of failed transaction within a maximum of T + 5 days.",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            481.7875061035156,
+            381.1516418457031,
+            494.84051513671875
+          ],
+          "text": "· 100/- per day of delay beyond T + 5 days, to the credit of the account holder.",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            501.7875061035156,
+            59.28200149536133,
+            514.8405151367188
+          ],
+          "text": "2",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            521.7874755859375,
+            126.85547637939453,
+            534.8405151367188
+          ],
+          "text": "Card Transaction",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            541.7874755859375,
+            59.28200149536133,
+            554.8405151367188
+          ],
+          "text": "a",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            561.7874755859375,
+            141.11497497558594,
+            574.8405151367188
+          ],
+          "text": "Card to card transfer",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            581.7874755859375,
+            336.5110778808594,
+            594.8405151367188
+          ],
+          "text": "Card account debited but the beneficiary card account not credited.",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            601.7874755859375,
+            385.8540344238281,
+            628.8405151367188
+          ],
+          "text": "Transaction to be reversed (R) latest within T + 1 day, if credit is not effected to\nthe beneficiary account.",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            635.7874755859375,
+            230.1204833984375,
+            648.8405151367188
+          ],
+          "text": "· 100/- per day of delay beyond T + 1 day.",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            655.7874755859375,
+            59.28200149536133,
+            668.8405151367188
+          ],
+          "text": "b",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            675.7874755859375,
+            295.8224182128906,
+            688.8405151367188
+          ],
+          "text": "Point of Sale (PoS) (Card Present) including Cash at PoS",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            695.7874755859375,
+            401.9661865234375,
+            722.8405151367188
+          ],
+          "text": "Account debited but confirmation not received at merchant location i.e., charge-slip\nnot generated.",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            729.7874755859375,
+            187.31350708007812,
+            742.8405151367188
+          ],
+          "text": "Auto-reversal within T + 5 days.",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            237.4879608154297,
+            785.3920288085938
+          ],
+          "text": "Page 3 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 32
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 4,
+      "text": "· 100/- per day of delay beyond T + 5 days.\n\nc\n\nCard Not Present (CNP) (e-commerce)\n\nAccount debited but confirmation not received at merchant·s system.\n\n3\n\nImmediate Payment System (IMPS)\n\na\n\nAccount debited but the beneficiary account is not credited.\n\nIf unable to credit to beneficiary account, auto reversal (R) by the Beneficiary bank\nlatest on T + 1 day.\n\n·100/- per day if delay is beyond T + 1 day.\n\n4\n\nUnified Payments Interface (UPI)\n\na\n\nAccount debited but the beneficiary account is not credited (transfer of funds).\n\nIf unable to credit the beneficiary account, auto reversal (R) by the Beneficiary\nbank latest on T + 1 day.\n\n·100/- per day if delay is beyond T + 1 day.\n\nb\n\nAccount debited but transaction confirmation not received at merchant location\n(payment to merchant).\n\nAuto-reversal within T + 5 days.\n\n·100/- per day if delay is beyond T + 5 days.\n\n5\n\nAadhaar Enabled Payment System (including Aadhaar Pay)\n\na\n\nAccount debited but transaction confirmation not received at merchant location.\n\nAcquirer to initiate ·Credit Adjustment· within T + 5 days.\n\n·100/- per day if delay is beyond T + 5 days.\n\nb\n\nAccount debited but beneficiary account not credited.\n\n6\n\nAadhaar Payment Bridge System (APBS)\n\na\n\nPage 4 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            79.7874984741211,
+            234.8704833984375,
+            92.84049987792969
+          ],
+          "text": "· 100/- per day of delay beyond T + 5 days.",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            99.7874984741211,
+            58.75,
+            112.84049987792969
+          ],
+          "text": "c",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            119.7874984741211,
+            218.1599578857422,
+            132.8404998779297
+          ],
+          "text": "Card Not Present (CNP) (e-commerce)",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            139.78750610351562,
+            342.2965393066406,
+            152.8404998779297
+          ],
+          "text": "Account debited but confirmation not received at merchant·s system.",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            159.78750610351562,
+            59.28200149536133,
+            172.8404998779297
+          ],
+          "text": "3",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            179.78750610351562,
+            204.98350524902344,
+            192.8404998779297
+          ],
+          "text": "Immediate Payment System (IMPS)",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            199.78750610351562,
+            59.28200149536133,
+            212.8404998779297
+          ],
+          "text": "a",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            219.78750610351562,
+            302.71954345703125,
+            232.8404998779297
+          ],
+          "text": "Account debited but the beneficiary account is not credited.",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            239.78750610351562,
+            399.3251647949219,
+            266.84051513671875
+          ],
+          "text": "If unable to credit to beneficiary account, auto reversal (R) by the Beneficiary bank\nlatest on T + 1 day.",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            273.7875061035156,
+            233.80650329589844,
+            286.84051513671875
+          ],
+          "text": "·100/- per day if delay is beyond T + 1 day.",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            293.7875061035156,
+            59.28200149536133,
+            306.84051513671875
+          ],
+          "text": "4",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            313.7875061035156,
+            192.8520050048828,
+            326.84051513671875
+          ],
+          "text": "Unified Payments Interface (UPI)",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            333.7875061035156,
+            59.28200149536133,
+            346.84051513671875
+          ],
+          "text": "a",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            353.7875061035156,
+            380.3346252441406,
+            366.84051513671875
+          ],
+          "text": "Account debited but the beneficiary account is not credited (transfer of funds).",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            373.7875061035156,
+            381.3701477050781,
+            400.84051513671875
+          ],
+          "text": "If unable to credit the beneficiary account, auto reversal (R) by the Beneficiary\nbank latest on T + 1 day.",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            407.7875061035156,
+            233.80650329589844,
+            420.84051513671875
+          ],
+          "text": "·100/- per day if delay is beyond T + 1 day.",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            427.7875061035156,
+            59.28200149536133,
+            440.84051513671875
+          ],
+          "text": "b",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            447.7875061035156,
+            384.0206604003906,
+            474.84051513671875
+          ],
+          "text": "Account debited but transaction confirmation not received at merchant location\n(payment to merchant).",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            481.7875061035156,
+            187.31350708007812,
+            494.84051513671875
+          ],
+          "text": "Auto-reversal within T + 5 days.",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            501.7875061035156,
+            238.55650329589844,
+            514.8405151367188
+          ],
+          "text": "·100/- per day if delay is beyond T + 5 days.",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            521.7874755859375,
+            59.28200149536133,
+            534.8405151367188
+          ],
+          "text": "5",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            541.7874755859375,
+            305.8640441894531,
+            554.8405151367188
+          ],
+          "text": "Aadhaar Enabled Payment System (including Aadhaar Pay)",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            561.7874755859375,
+            59.28200149536133,
+            574.8405151367188
+          ],
+          "text": "a",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            581.7874755859375,
+            386.6616516113281,
+            594.8405151367188
+          ],
+          "text": "Account debited but transaction confirmation not received at merchant location.",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            601.7874755859375,
+            290.2745056152344,
+            614.8405151367188
+          ],
+          "text": "Acquirer to initiate ·Credit Adjustment· within T + 5 days.",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            621.7874755859375,
+            238.55650329589844,
+            634.8405151367188
+          ],
+          "text": "·100/- per day if delay is beyond T + 5 days.",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            641.7874755859375,
+            59.28200149536133,
+            654.8405151367188
+          ],
+          "text": "b",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            661.7874755859375,
+            277.3735046386719,
+            674.8405151367188
+          ],
+          "text": "Account debited but beneficiary account not credited.",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            681.7874755859375,
+            59.28200149536133,
+            694.8405151367188
+          ],
+          "text": "6",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            701.7874755859375,
+            228.76199340820312,
+            714.8405151367188
+          ],
+          "text": "Aadhaar Payment Bridge System (APBS)",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            721.7874755859375,
+            59.28200149536133,
+            734.8405151367188
+          ],
+          "text": "a",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            237.4879608154297,
+            785.3920288085938
+          ],
+          "text": "Page 4 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 32
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 5,
+      "text": "Delay in crediting beneficiary·s account.\n\nBeneficiary bank to reverse the transaction within T + 1 day.\n\n·100/- per day if delay is beyond T + 1 day.\n\n7\n\nNational Automated Clearing House (NACH)\n\na\n\nDelay in crediting beneficiary·s account or reversal of amount.\n\nBeneficiary bank to reverse the uncredited transaction within T + 1 day.\n\n·100/- per day if delay is beyond T + 1 day.\n\nb\n\nAccount debited despite revocation of debit mandate with the bank by the customer.\n\nCustomer·s bank will be responsible for such debit. Resolution to be completed within\nT + 1 day.\n\n8\n\nPrepaid Payment Instruments (PPIs) · Cards / Wallets\n\na\n\nOff-Us transaction\n\nThe transaction will ride on UPI, card network, IMPS, etc., as the case may be. The\nTAT and compensation rule of respective system shall apply.\n\nb\n\nOn-Us transaction\n\nBeneficiary·s PPI not credited.\n\nPPI debited but transaction confirmation not received at merchant location.\n\nReversal effected in Remitter·s account within T + 1 day.\n\n·100/- per day if delay is beyond T + 1 day.\n\n2026\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nPage 5 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            73.7874984741211,
+            221.37098693847656,
+            86.84049987792969
+          ],
+          "text": "Delay in crediting beneficiary·s account.",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            93.7874984741211,
+            306.1299743652344,
+            106.84049987792969
+          ],
+          "text": "Beneficiary bank to reverse the transaction within T + 1 day.",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            113.7874984741211,
+            233.80650329589844,
+            126.84049987792969
+          ],
+          "text": "·100/- per day if delay is beyond T + 1 day.",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            133.78750610351562,
+            59.28200149536133,
+            146.8404998779297
+          ],
+          "text": "7",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            153.78750610351562,
+            241.4159393310547,
+            166.8404998779297
+          ],
+          "text": "National Automated Clearing House (NACH)",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            173.78750610351562,
+            59.28200149536133,
+            186.8404998779297
+          ],
+          "text": "a",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            193.78750610351562,
+            313.7680358886719,
+            206.8404998779297
+          ],
+          "text": "Delay in crediting beneficiary·s account or reversal of amount.",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            213.78750610351562,
+            353.1265563964844,
+            226.8404998779297
+          ],
+          "text": "Beneficiary bank to reverse the uncredited transaction within T + 1 day.",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            233.78750610351562,
+            233.80650329589844,
+            246.8404998779297
+          ],
+          "text": "·100/- per day if delay is beyond T + 1 day.",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            253.78750610351562,
+            59.28200149536133,
+            266.84051513671875
+          ],
+          "text": "b",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            273.7875061035156,
+            406.74462890625,
+            286.84051513671875
+          ],
+          "text": "Account debited despite revocation of debit mandate with the bank by the customer.",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            293.7875061035156,
+            413.03363037109375,
+            320.84051513671875
+          ],
+          "text": "Customer·s bank will be responsible for such debit. Resolution to be completed within\nT + 1 day.",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            327.7875061035156,
+            59.28200149536133,
+            340.84051513671875
+          ],
+          "text": "8",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            347.7875061035156,
+            280.48956298828125,
+            360.84051513671875
+          ],
+          "text": "Prepaid Payment Instruments (PPIs) · Cards / Wallets",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            367.7875061035156,
+            59.28200149536133,
+            380.84051513671875
+          ],
+          "text": "a",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            387.7875061035156,
+            130.5509796142578,
+            400.84051513671875
+          ],
+          "text": "Off-Us transaction",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            407.7875061035156,
+            403.53350830078125,
+            434.84051513671875
+          ],
+          "text": "The transaction will ride on UPI, card network, IMPS, etc., as the case may be. The\nTAT and compensation rule of respective system shall apply.",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            441.7875061035156,
+            59.28200149536133,
+            454.84051513671875
+          ],
+          "text": "b",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            461.7875061035156,
+            130.5509796142578,
+            474.84051513671875
+          ],
+          "text": "On-Us transaction",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            481.7875061035156,
+            181.25250244140625,
+            494.84051513671875
+          ],
+          "text": "Beneficiary·s PPI not credited.",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            501.7875061035156,
+            367.652099609375,
+            514.8405151367188
+          ],
+          "text": "PPI debited but transaction confirmation not received at merchant location.",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            521.7874755859375,
+            291.8609924316406,
+            534.8405151367188
+          ],
+          "text": "Reversal effected in Remitter·s account within T + 1 day.",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            541.7874755859375,
+            233.80650329589844,
+            554.8405151367188
+          ],
+          "text": "·100/- per day if delay is beyond T + 1 day.",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            561.7874755859375,
+            75.12799835205078,
+            574.8405151367188
+          ],
+          "text": "2026",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            581.7874755859375,
+            98.34599304199219,
+            594.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            601.7874755859375,
+            87.79148864746094,
+            614.8405151367188
+          ],
+          "text": "January",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            621.7874755859375,
+            92.00949096679688,
+            634.8405151367188
+          ],
+          "text": "February",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            641.7874755859375,
+            80.39099884033203,
+            654.8405151367188
+          ],
+          "text": "March",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            661.7874755859375,
+            73.0,
+            674.8405151367188
+          ],
+          "text": "April",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            681.7874755859375,
+            71.94550323486328,
+            694.8405151367188
+          ],
+          "text": "May",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            701.7874755859375,
+            74.59599304199219,
+            714.8405151367188
+          ],
+          "text": "June",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            721.7874755859375,
+            70.89099884033203,
+            734.8405151367188
+          ],
+          "text": "July",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            237.4879608154297,
+            785.3920288085938
+          ],
+          "text": "Page 5 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 33
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 6,
+      "text": "August\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2025\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2024\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2023\n\nPage 6 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            73.7874984741211,
+            83.57349395751953,
+            86.84049987792969
+          ],
+          "text": "August",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            93.7874984741211,
+            100.46448516845703,
+            106.84049987792969
+          ],
+          "text": "September",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            113.7874984741211,
+            87.79148864746094,
+            126.84049987792969
+          ],
+          "text": "October",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            133.78750610351562,
+            97.8139877319336,
+            146.8404998779297
+          ],
+          "text": "November",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            153.78750610351562,
+            97.8139877319336,
+            166.8404998779297
+          ],
+          "text": "December",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            173.78750610351562,
+            75.12799835205078,
+            186.8404998779297
+          ],
+          "text": "2025",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            193.78750610351562,
+            98.34599304199219,
+            206.8404998779297
+          ],
+          "text": "All Months",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            213.78750610351562,
+            87.79148864746094,
+            226.8404998779297
+          ],
+          "text": "January",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            233.78750610351562,
+            92.00949096679688,
+            246.8404998779297
+          ],
+          "text": "February",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            253.78750610351562,
+            80.39099884033203,
+            266.84051513671875
+          ],
+          "text": "March",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            273.7875061035156,
+            73.0,
+            286.84051513671875
+          ],
+          "text": "April",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            293.7875061035156,
+            71.94550323486328,
+            306.84051513671875
+          ],
+          "text": "May",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            313.7875061035156,
+            74.59599304199219,
+            326.84051513671875
+          ],
+          "text": "June",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            333.7875061035156,
+            70.89099884033203,
+            346.84051513671875
+          ],
+          "text": "July",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            353.7875061035156,
+            83.57349395751953,
+            366.84051513671875
+          ],
+          "text": "August",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            373.7875061035156,
+            100.46448516845703,
+            386.84051513671875
+          ],
+          "text": "September",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            393.7875061035156,
+            87.79148864746094,
+            406.84051513671875
+          ],
+          "text": "October",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            413.7875061035156,
+            97.8139877319336,
+            426.84051513671875
+          ],
+          "text": "November",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            433.7875061035156,
+            97.8139877319336,
+            446.84051513671875
+          ],
+          "text": "December",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            453.7875061035156,
+            75.12799835205078,
+            466.84051513671875
+          ],
+          "text": "2024",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            473.7875061035156,
+            98.34599304199219,
+            486.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            493.7875061035156,
+            87.79148864746094,
+            506.84051513671875
+          ],
+          "text": "January",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            513.7874755859375,
+            92.00949096679688,
+            526.8405151367188
+          ],
+          "text": "February",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            533.7874755859375,
+            80.39099884033203,
+            546.8405151367188
+          ],
+          "text": "March",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            553.7874755859375,
+            73.0,
+            566.8405151367188
+          ],
+          "text": "April",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            573.7874755859375,
+            71.94550323486328,
+            586.8405151367188
+          ],
+          "text": "May",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            593.7874755859375,
+            74.59599304199219,
+            606.8405151367188
+          ],
+          "text": "June",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            613.7874755859375,
+            70.89099884033203,
+            626.8405151367188
+          ],
+          "text": "July",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            633.7874755859375,
+            83.57349395751953,
+            646.8405151367188
+          ],
+          "text": "August",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            653.7874755859375,
+            100.46448516845703,
+            666.8405151367188
+          ],
+          "text": "September",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            673.7874755859375,
+            87.79148864746094,
+            686.8405151367188
+          ],
+          "text": "October",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            693.7874755859375,
+            97.8139877319336,
+            706.8405151367188
+          ],
+          "text": "November",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            713.7874755859375,
+            97.8139877319336,
+            726.8405151367188
+          ],
+          "text": "December",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            733.7874755859375,
+            75.12799835205078,
+            746.8405151367188
+          ],
+          "text": "2023",
+          "block_id": 34
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            237.4879608154297,
+            785.3920288085938
+          ],
+          "text": "Page 6 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 35
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 7,
+      "text": "All Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2022\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2021\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nPage 7 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            79.7874984741211,
+            98.34599304199219,
+            92.84049987792969
+          ],
+          "text": "All Months",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            99.7874984741211,
+            87.79148864746094,
+            112.84049987792969
+          ],
+          "text": "January",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            119.7874984741211,
+            92.00949096679688,
+            132.8404998779297
+          ],
+          "text": "February",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            139.78750610351562,
+            80.39099884033203,
+            152.8404998779297
+          ],
+          "text": "March",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            159.78750610351562,
+            73.0,
+            172.8404998779297
+          ],
+          "text": "April",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            179.78750610351562,
+            71.94550323486328,
+            192.8404998779297
+          ],
+          "text": "May",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            199.78750610351562,
+            74.59599304199219,
+            212.8404998779297
+          ],
+          "text": "June",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            219.78750610351562,
+            70.89099884033203,
+            232.8404998779297
+          ],
+          "text": "July",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            239.78750610351562,
+            83.57349395751953,
+            252.8404998779297
+          ],
+          "text": "August",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            259.7875061035156,
+            100.46448516845703,
+            272.84051513671875
+          ],
+          "text": "September",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            279.7875061035156,
+            87.79148864746094,
+            292.84051513671875
+          ],
+          "text": "October",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            299.7875061035156,
+            97.8139877319336,
+            312.84051513671875
+          ],
+          "text": "November",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            319.7875061035156,
+            97.8139877319336,
+            332.84051513671875
+          ],
+          "text": "December",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            339.7875061035156,
+            75.12799835205078,
+            352.84051513671875
+          ],
+          "text": "2022",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            359.7875061035156,
+            98.34599304199219,
+            372.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            379.7875061035156,
+            87.79148864746094,
+            392.84051513671875
+          ],
+          "text": "January",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            399.7875061035156,
+            92.00949096679688,
+            412.84051513671875
+          ],
+          "text": "February",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            419.7875061035156,
+            80.39099884033203,
+            432.84051513671875
+          ],
+          "text": "March",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            439.7875061035156,
+            73.0,
+            452.84051513671875
+          ],
+          "text": "April",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            459.7875061035156,
+            71.94550323486328,
+            472.84051513671875
+          ],
+          "text": "May",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            479.7875061035156,
+            74.59599304199219,
+            492.84051513671875
+          ],
+          "text": "June",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            499.7875061035156,
+            70.89099884033203,
+            512.8405151367188
+          ],
+          "text": "July",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            519.7874755859375,
+            83.57349395751953,
+            532.8405151367188
+          ],
+          "text": "August",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            539.7874755859375,
+            100.46448516845703,
+            552.8405151367188
+          ],
+          "text": "September",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            559.7874755859375,
+            87.79148864746094,
+            572.8405151367188
+          ],
+          "text": "October",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            579.7874755859375,
+            97.8139877319336,
+            592.8405151367188
+          ],
+          "text": "November",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            599.7874755859375,
+            97.8139877319336,
+            612.8405151367188
+          ],
+          "text": "December",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            619.7874755859375,
+            75.12799835205078,
+            632.8405151367188
+          ],
+          "text": "2021",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            639.7874755859375,
+            98.34599304199219,
+            652.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            659.7874755859375,
+            87.79148864746094,
+            672.8405151367188
+          ],
+          "text": "January",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            679.7874755859375,
+            92.00949096679688,
+            692.8405151367188
+          ],
+          "text": "February",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            699.7874755859375,
+            80.39099884033203,
+            712.8405151367188
+          ],
+          "text": "March",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            719.7874755859375,
+            73.0,
+            732.8405151367188
+          ],
+          "text": "April",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            237.4879608154297,
+            785.3920288085938
+          ],
+          "text": "Page 7 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 34
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 8,
+      "text": "May\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2020\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2019\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nPage 8 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            73.7874984741211,
+            71.94550323486328,
+            86.84049987792969
+          ],
+          "text": "May",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            93.7874984741211,
+            74.59599304199219,
+            106.84049987792969
+          ],
+          "text": "June",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            113.7874984741211,
+            70.89099884033203,
+            126.84049987792969
+          ],
+          "text": "July",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            133.78750610351562,
+            83.57349395751953,
+            146.8404998779297
+          ],
+          "text": "August",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            153.78750610351562,
+            100.46448516845703,
+            166.8404998779297
+          ],
+          "text": "September",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            173.78750610351562,
+            87.79148864746094,
+            186.8404998779297
+          ],
+          "text": "October",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            193.78750610351562,
+            97.8139877319336,
+            206.8404998779297
+          ],
+          "text": "November",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            213.78750610351562,
+            97.8139877319336,
+            226.8404998779297
+          ],
+          "text": "December",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            233.78750610351562,
+            75.12799835205078,
+            246.8404998779297
+          ],
+          "text": "2020",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            253.78750610351562,
+            98.34599304199219,
+            266.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            273.7875061035156,
+            87.79148864746094,
+            286.84051513671875
+          ],
+          "text": "January",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            293.7875061035156,
+            92.00949096679688,
+            306.84051513671875
+          ],
+          "text": "February",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            313.7875061035156,
+            80.39099884033203,
+            326.84051513671875
+          ],
+          "text": "March",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            333.7875061035156,
+            73.0,
+            346.84051513671875
+          ],
+          "text": "April",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            353.7875061035156,
+            71.94550323486328,
+            366.84051513671875
+          ],
+          "text": "May",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            373.7875061035156,
+            74.59599304199219,
+            386.84051513671875
+          ],
+          "text": "June",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            393.7875061035156,
+            70.89099884033203,
+            406.84051513671875
+          ],
+          "text": "July",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            413.7875061035156,
+            83.57349395751953,
+            426.84051513671875
+          ],
+          "text": "August",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            433.7875061035156,
+            100.46448516845703,
+            446.84051513671875
+          ],
+          "text": "September",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            453.7875061035156,
+            87.79148864746094,
+            466.84051513671875
+          ],
+          "text": "October",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            473.7875061035156,
+            97.8139877319336,
+            486.84051513671875
+          ],
+          "text": "November",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            493.7875061035156,
+            97.8139877319336,
+            506.84051513671875
+          ],
+          "text": "December",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            513.7874755859375,
+            75.12799835205078,
+            526.8405151367188
+          ],
+          "text": "2019",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            533.7874755859375,
+            98.34599304199219,
+            546.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            553.7874755859375,
+            87.79148864746094,
+            566.8405151367188
+          ],
+          "text": "January",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            573.7874755859375,
+            92.00949096679688,
+            586.8405151367188
+          ],
+          "text": "February",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            593.7874755859375,
+            80.39099884033203,
+            606.8405151367188
+          ],
+          "text": "March",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            613.7874755859375,
+            73.0,
+            626.8405151367188
+          ],
+          "text": "April",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            633.7874755859375,
+            71.94550323486328,
+            646.8405151367188
+          ],
+          "text": "May",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            653.7874755859375,
+            74.59599304199219,
+            666.8405151367188
+          ],
+          "text": "June",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            673.7874755859375,
+            70.89099884033203,
+            686.8405151367188
+          ],
+          "text": "July",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            693.7874755859375,
+            83.57349395751953,
+            706.8405151367188
+          ],
+          "text": "August",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            713.7874755859375,
+            100.46448516845703,
+            726.8405151367188
+          ],
+          "text": "September",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            733.7874755859375,
+            87.79148864746094,
+            746.8405151367188
+          ],
+          "text": "October",
+          "block_id": 34
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            237.4879608154297,
+            785.3920288085938
+          ],
+          "text": "Page 8 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 35
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 9,
+      "text": "November\n\nDecember\n\n2018\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2017\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\nArchives\n\n2016\n\nAll Months\n\nPage 9 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            79.7874984741211,
+            97.8139877319336,
+            92.84049987792969
+          ],
+          "text": "November",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            99.7874984741211,
+            97.8139877319336,
+            112.84049987792969
+          ],
+          "text": "December",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            119.7874984741211,
+            75.12799835205078,
+            132.8404998779297
+          ],
+          "text": "2018",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            139.78750610351562,
+            98.34599304199219,
+            152.8404998779297
+          ],
+          "text": "All Months",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            159.78750610351562,
+            87.79148864746094,
+            172.8404998779297
+          ],
+          "text": "January",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            179.78750610351562,
+            92.00949096679688,
+            192.8404998779297
+          ],
+          "text": "February",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            199.78750610351562,
+            80.39099884033203,
+            212.8404998779297
+          ],
+          "text": "March",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            219.78750610351562,
+            73.0,
+            232.8404998779297
+          ],
+          "text": "April",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            239.78750610351562,
+            71.94550323486328,
+            252.8404998779297
+          ],
+          "text": "May",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            259.7875061035156,
+            74.59599304199219,
+            272.84051513671875
+          ],
+          "text": "June",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            279.7875061035156,
+            70.89099884033203,
+            292.84051513671875
+          ],
+          "text": "July",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            299.7875061035156,
+            83.57349395751953,
+            312.84051513671875
+          ],
+          "text": "August",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            319.7875061035156,
+            100.46448516845703,
+            332.84051513671875
+          ],
+          "text": "September",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            339.7875061035156,
+            87.79148864746094,
+            352.84051513671875
+          ],
+          "text": "October",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            359.7875061035156,
+            97.8139877319336,
+            372.84051513671875
+          ],
+          "text": "November",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            379.7875061035156,
+            97.8139877319336,
+            392.84051513671875
+          ],
+          "text": "December",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            399.7875061035156,
+            75.12799835205078,
+            412.84051513671875
+          ],
+          "text": "2017",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            419.7875061035156,
+            98.34599304199219,
+            432.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            439.7875061035156,
+            87.79148864746094,
+            452.84051513671875
+          ],
+          "text": "January",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            459.7875061035156,
+            92.00949096679688,
+            472.84051513671875
+          ],
+          "text": "February",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            479.7875061035156,
+            80.39099884033203,
+            492.84051513671875
+          ],
+          "text": "March",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            499.7875061035156,
+            73.0,
+            512.8405151367188
+          ],
+          "text": "April",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            519.7874755859375,
+            71.94550323486328,
+            532.8405151367188
+          ],
+          "text": "May",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            539.7874755859375,
+            74.59599304199219,
+            552.8405151367188
+          ],
+          "text": "June",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            559.7874755859375,
+            70.89099884033203,
+            572.8405151367188
+          ],
+          "text": "July",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            579.7874755859375,
+            83.57349395751953,
+            592.8405151367188
+          ],
+          "text": "August",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            599.7874755859375,
+            100.46448516845703,
+            612.8405151367188
+          ],
+          "text": "September",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            619.7874755859375,
+            87.79148864746094,
+            632.8405151367188
+          ],
+          "text": "October",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            639.7874755859375,
+            97.8139877319336,
+            652.8405151367188
+          ],
+          "text": "November",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            659.7874755859375,
+            97.8139877319336,
+            672.8405151367188
+          ],
+          "text": "December",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            679.7874755859375,
+            90.4229965209961,
+            692.8405151367188
+          ],
+          "text": "Archives",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            699.7874755859375,
+            75.12799835205078,
+            712.8405151367188
+          ],
+          "text": "2016",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            719.7874755859375,
+            98.34599304199219,
+            732.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            237.4879608154297,
+            785.3920288085938
+          ],
+          "text": "Page 9 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 34
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 10,
+      "text": "January\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2015\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2014\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nPage 10 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            73.7874984741211,
+            87.79148864746094,
+            86.84049987792969
+          ],
+          "text": "January",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            93.7874984741211,
+            92.00949096679688,
+            106.84049987792969
+          ],
+          "text": "February",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            113.7874984741211,
+            80.39099884033203,
+            126.84049987792969
+          ],
+          "text": "March",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            133.78750610351562,
+            73.0,
+            146.8404998779297
+          ],
+          "text": "April",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            153.78750610351562,
+            71.94550323486328,
+            166.8404998779297
+          ],
+          "text": "May",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            173.78750610351562,
+            74.59599304199219,
+            186.8404998779297
+          ],
+          "text": "June",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            193.78750610351562,
+            70.89099884033203,
+            206.8404998779297
+          ],
+          "text": "July",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            213.78750610351562,
+            83.57349395751953,
+            226.8404998779297
+          ],
+          "text": "August",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            233.78750610351562,
+            100.46448516845703,
+            246.8404998779297
+          ],
+          "text": "September",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            253.78750610351562,
+            87.79148864746094,
+            266.84051513671875
+          ],
+          "text": "October",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            273.7875061035156,
+            97.8139877319336,
+            286.84051513671875
+          ],
+          "text": "November",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            293.7875061035156,
+            97.8139877319336,
+            306.84051513671875
+          ],
+          "text": "December",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            313.7875061035156,
+            75.12799835205078,
+            326.84051513671875
+          ],
+          "text": "2015",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            333.7875061035156,
+            98.34599304199219,
+            346.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            353.7875061035156,
+            87.79148864746094,
+            366.84051513671875
+          ],
+          "text": "January",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            373.7875061035156,
+            92.00949096679688,
+            386.84051513671875
+          ],
+          "text": "February",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            393.7875061035156,
+            80.39099884033203,
+            406.84051513671875
+          ],
+          "text": "March",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            413.7875061035156,
+            73.0,
+            426.84051513671875
+          ],
+          "text": "April",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            433.7875061035156,
+            71.94550323486328,
+            446.84051513671875
+          ],
+          "text": "May",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            453.7875061035156,
+            74.59599304199219,
+            466.84051513671875
+          ],
+          "text": "June",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            473.7875061035156,
+            70.89099884033203,
+            486.84051513671875
+          ],
+          "text": "July",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            493.7875061035156,
+            83.57349395751953,
+            506.84051513671875
+          ],
+          "text": "August",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            513.7874755859375,
+            100.46448516845703,
+            526.8405151367188
+          ],
+          "text": "September",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            533.7874755859375,
+            87.79148864746094,
+            546.8405151367188
+          ],
+          "text": "October",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            553.7874755859375,
+            97.8139877319336,
+            566.8405151367188
+          ],
+          "text": "November",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            573.7874755859375,
+            97.8139877319336,
+            586.8405151367188
+          ],
+          "text": "December",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            593.7874755859375,
+            75.12799835205078,
+            606.8405151367188
+          ],
+          "text": "2014",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            613.7874755859375,
+            98.34599304199219,
+            626.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            633.7874755859375,
+            87.79148864746094,
+            646.8405151367188
+          ],
+          "text": "January",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            653.7874755859375,
+            92.00949096679688,
+            666.8405151367188
+          ],
+          "text": "February",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            673.7874755859375,
+            80.39099884033203,
+            686.8405151367188
+          ],
+          "text": "March",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            693.7874755859375,
+            73.0,
+            706.8405151367188
+          ],
+          "text": "April",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            713.7874755859375,
+            71.94550323486328,
+            726.8405151367188
+          ],
+          "text": "May",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            733.7874755859375,
+            74.59599304199219,
+            746.8405151367188
+          ],
+          "text": "June",
+          "block_id": 34
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 10 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 35
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 11,
+      "text": "July\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2013\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2012\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nPage 11 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            79.7874984741211,
+            70.89099884033203,
+            92.84049987792969
+          ],
+          "text": "July",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            99.7874984741211,
+            83.57349395751953,
+            112.84049987792969
+          ],
+          "text": "August",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            119.7874984741211,
+            100.46448516845703,
+            132.8404998779297
+          ],
+          "text": "September",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            139.78750610351562,
+            87.79148864746094,
+            152.8404998779297
+          ],
+          "text": "October",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            159.78750610351562,
+            97.8139877319336,
+            172.8404998779297
+          ],
+          "text": "November",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            179.78750610351562,
+            97.8139877319336,
+            192.8404998779297
+          ],
+          "text": "December",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            199.78750610351562,
+            75.12799835205078,
+            212.8404998779297
+          ],
+          "text": "2013",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            219.78750610351562,
+            98.34599304199219,
+            232.8404998779297
+          ],
+          "text": "All Months",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            239.78750610351562,
+            87.79148864746094,
+            252.8404998779297
+          ],
+          "text": "January",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            259.7875061035156,
+            92.00949096679688,
+            272.84051513671875
+          ],
+          "text": "February",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            279.7875061035156,
+            80.39099884033203,
+            292.84051513671875
+          ],
+          "text": "March",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            299.7875061035156,
+            73.0,
+            312.84051513671875
+          ],
+          "text": "April",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            319.7875061035156,
+            71.94550323486328,
+            332.84051513671875
+          ],
+          "text": "May",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            339.7875061035156,
+            74.59599304199219,
+            352.84051513671875
+          ],
+          "text": "June",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            359.7875061035156,
+            70.89099884033203,
+            372.84051513671875
+          ],
+          "text": "July",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            379.7875061035156,
+            83.57349395751953,
+            392.84051513671875
+          ],
+          "text": "August",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            399.7875061035156,
+            100.46448516845703,
+            412.84051513671875
+          ],
+          "text": "September",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            419.7875061035156,
+            87.79148864746094,
+            432.84051513671875
+          ],
+          "text": "October",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            439.7875061035156,
+            97.8139877319336,
+            452.84051513671875
+          ],
+          "text": "November",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            459.7875061035156,
+            97.8139877319336,
+            472.84051513671875
+          ],
+          "text": "December",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            479.7875061035156,
+            75.12799835205078,
+            492.84051513671875
+          ],
+          "text": "2012",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            499.7875061035156,
+            98.34599304199219,
+            512.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            519.7874755859375,
+            87.79148864746094,
+            532.8405151367188
+          ],
+          "text": "January",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            539.7874755859375,
+            92.00949096679688,
+            552.8405151367188
+          ],
+          "text": "February",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            559.7874755859375,
+            80.39099884033203,
+            572.8405151367188
+          ],
+          "text": "March",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            579.7874755859375,
+            73.0,
+            592.8405151367188
+          ],
+          "text": "April",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            599.7874755859375,
+            71.94550323486328,
+            612.8405151367188
+          ],
+          "text": "May",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            619.7874755859375,
+            74.59599304199219,
+            632.8405151367188
+          ],
+          "text": "June",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            639.7874755859375,
+            70.89099884033203,
+            652.8405151367188
+          ],
+          "text": "July",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            659.7874755859375,
+            83.57349395751953,
+            672.8405151367188
+          ],
+          "text": "August",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            679.7874755859375,
+            100.46448516845703,
+            692.8405151367188
+          ],
+          "text": "September",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            699.7874755859375,
+            87.79148864746094,
+            712.8405151367188
+          ],
+          "text": "October",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            719.7874755859375,
+            97.8139877319336,
+            732.8405151367188
+          ],
+          "text": "November",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 11 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 34
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 12,
+      "text": "December\n\n2011\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2010\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2009\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nPage 12 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            73.7874984741211,
+            97.8139877319336,
+            86.84049987792969
+          ],
+          "text": "December",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            93.7874984741211,
+            75.12799835205078,
+            106.84049987792969
+          ],
+          "text": "2011",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            113.7874984741211,
+            98.34599304199219,
+            126.84049987792969
+          ],
+          "text": "All Months",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            133.78750610351562,
+            87.79148864746094,
+            146.8404998779297
+          ],
+          "text": "January",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            153.78750610351562,
+            92.00949096679688,
+            166.8404998779297
+          ],
+          "text": "February",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            173.78750610351562,
+            80.39099884033203,
+            186.8404998779297
+          ],
+          "text": "March",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            193.78750610351562,
+            73.0,
+            206.8404998779297
+          ],
+          "text": "April",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            213.78750610351562,
+            71.94550323486328,
+            226.8404998779297
+          ],
+          "text": "May",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            233.78750610351562,
+            74.59599304199219,
+            246.8404998779297
+          ],
+          "text": "June",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            253.78750610351562,
+            70.89099884033203,
+            266.84051513671875
+          ],
+          "text": "July",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            273.7875061035156,
+            83.57349395751953,
+            286.84051513671875
+          ],
+          "text": "August",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            293.7875061035156,
+            100.46448516845703,
+            306.84051513671875
+          ],
+          "text": "September",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            313.7875061035156,
+            87.79148864746094,
+            326.84051513671875
+          ],
+          "text": "October",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            333.7875061035156,
+            97.8139877319336,
+            346.84051513671875
+          ],
+          "text": "November",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            353.7875061035156,
+            97.8139877319336,
+            366.84051513671875
+          ],
+          "text": "December",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            373.7875061035156,
+            75.12799835205078,
+            386.84051513671875
+          ],
+          "text": "2010",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            393.7875061035156,
+            98.34599304199219,
+            406.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            413.7875061035156,
+            87.79148864746094,
+            426.84051513671875
+          ],
+          "text": "January",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            433.7875061035156,
+            92.00949096679688,
+            446.84051513671875
+          ],
+          "text": "February",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            453.7875061035156,
+            80.39099884033203,
+            466.84051513671875
+          ],
+          "text": "March",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            473.7875061035156,
+            73.0,
+            486.84051513671875
+          ],
+          "text": "April",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            493.7875061035156,
+            71.94550323486328,
+            506.84051513671875
+          ],
+          "text": "May",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            513.7874755859375,
+            74.59599304199219,
+            526.8405151367188
+          ],
+          "text": "June",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            533.7874755859375,
+            70.89099884033203,
+            546.8405151367188
+          ],
+          "text": "July",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            553.7874755859375,
+            83.57349395751953,
+            566.8405151367188
+          ],
+          "text": "August",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            573.7874755859375,
+            100.46448516845703,
+            586.8405151367188
+          ],
+          "text": "September",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            593.7874755859375,
+            87.79148864746094,
+            606.8405151367188
+          ],
+          "text": "October",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            613.7874755859375,
+            97.8139877319336,
+            626.8405151367188
+          ],
+          "text": "November",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            633.7874755859375,
+            97.8139877319336,
+            646.8405151367188
+          ],
+          "text": "December",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            653.7874755859375,
+            75.12799835205078,
+            666.8405151367188
+          ],
+          "text": "2009",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            673.7874755859375,
+            98.34599304199219,
+            686.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            693.7874755859375,
+            87.79148864746094,
+            706.8405151367188
+          ],
+          "text": "January",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            713.7874755859375,
+            92.00949096679688,
+            726.8405151367188
+          ],
+          "text": "February",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            733.7874755859375,
+            80.39099884033203,
+            746.8405151367188
+          ],
+          "text": "March",
+          "block_id": 34
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 12 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 35
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 13,
+      "text": "April\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2008\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2007\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nPage 13 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            79.7874984741211,
+            73.0,
+            92.84049987792969
+          ],
+          "text": "April",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            99.7874984741211,
+            71.94550323486328,
+            112.84049987792969
+          ],
+          "text": "May",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            119.7874984741211,
+            74.59599304199219,
+            132.8404998779297
+          ],
+          "text": "June",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            139.78750610351562,
+            70.89099884033203,
+            152.8404998779297
+          ],
+          "text": "July",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            159.78750610351562,
+            83.57349395751953,
+            172.8404998779297
+          ],
+          "text": "August",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            179.78750610351562,
+            100.46448516845703,
+            192.8404998779297
+          ],
+          "text": "September",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            199.78750610351562,
+            87.79148864746094,
+            212.8404998779297
+          ],
+          "text": "October",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            219.78750610351562,
+            97.8139877319336,
+            232.8404998779297
+          ],
+          "text": "November",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            239.78750610351562,
+            97.8139877319336,
+            252.8404998779297
+          ],
+          "text": "December",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            259.7875061035156,
+            75.12799835205078,
+            272.84051513671875
+          ],
+          "text": "2008",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            279.7875061035156,
+            98.34599304199219,
+            292.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            299.7875061035156,
+            87.79148864746094,
+            312.84051513671875
+          ],
+          "text": "January",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            319.7875061035156,
+            92.00949096679688,
+            332.84051513671875
+          ],
+          "text": "February",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            339.7875061035156,
+            80.39099884033203,
+            352.84051513671875
+          ],
+          "text": "March",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            359.7875061035156,
+            73.0,
+            372.84051513671875
+          ],
+          "text": "April",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            379.7875061035156,
+            71.94550323486328,
+            392.84051513671875
+          ],
+          "text": "May",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            399.7875061035156,
+            74.59599304199219,
+            412.84051513671875
+          ],
+          "text": "June",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            419.7875061035156,
+            70.89099884033203,
+            432.84051513671875
+          ],
+          "text": "July",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            439.7875061035156,
+            83.57349395751953,
+            452.84051513671875
+          ],
+          "text": "August",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            459.7875061035156,
+            100.46448516845703,
+            472.84051513671875
+          ],
+          "text": "September",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            479.7875061035156,
+            87.79148864746094,
+            492.84051513671875
+          ],
+          "text": "October",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            499.7875061035156,
+            97.8139877319336,
+            512.8405151367188
+          ],
+          "text": "November",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            519.7874755859375,
+            97.8139877319336,
+            532.8405151367188
+          ],
+          "text": "December",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            539.7874755859375,
+            75.12799835205078,
+            552.8405151367188
+          ],
+          "text": "2007",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            559.7874755859375,
+            98.34599304199219,
+            572.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            579.7874755859375,
+            87.79148864746094,
+            592.8405151367188
+          ],
+          "text": "January",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            599.7874755859375,
+            92.00949096679688,
+            612.8405151367188
+          ],
+          "text": "February",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            619.7874755859375,
+            80.39099884033203,
+            632.8405151367188
+          ],
+          "text": "March",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            639.7874755859375,
+            73.0,
+            652.8405151367188
+          ],
+          "text": "April",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            659.7874755859375,
+            71.94550323486328,
+            672.8405151367188
+          ],
+          "text": "May",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            679.7874755859375,
+            74.59599304199219,
+            692.8405151367188
+          ],
+          "text": "June",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            699.7874755859375,
+            70.89099884033203,
+            712.8405151367188
+          ],
+          "text": "July",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            719.7874755859375,
+            83.57349395751953,
+            732.8405151367188
+          ],
+          "text": "August",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 13 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 34
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 14,
+      "text": "September\n\nOctober\n\nNovember\n\nDecember\n\n2006\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2005\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2004\n\nAll Months\n\nPage 14 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            73.7874984741211,
+            100.46448516845703,
+            86.84049987792969
+          ],
+          "text": "September",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            93.7874984741211,
+            87.79148864746094,
+            106.84049987792969
+          ],
+          "text": "October",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            113.7874984741211,
+            97.8139877319336,
+            126.84049987792969
+          ],
+          "text": "November",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            133.78750610351562,
+            97.8139877319336,
+            146.8404998779297
+          ],
+          "text": "December",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            153.78750610351562,
+            75.12799835205078,
+            166.8404998779297
+          ],
+          "text": "2006",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            173.78750610351562,
+            98.34599304199219,
+            186.8404998779297
+          ],
+          "text": "All Months",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            193.78750610351562,
+            87.79148864746094,
+            206.8404998779297
+          ],
+          "text": "January",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            213.78750610351562,
+            92.00949096679688,
+            226.8404998779297
+          ],
+          "text": "February",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            233.78750610351562,
+            80.39099884033203,
+            246.8404998779297
+          ],
+          "text": "March",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            253.78750610351562,
+            73.0,
+            266.84051513671875
+          ],
+          "text": "April",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            273.7875061035156,
+            71.94550323486328,
+            286.84051513671875
+          ],
+          "text": "May",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            293.7875061035156,
+            74.59599304199219,
+            306.84051513671875
+          ],
+          "text": "June",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            313.7875061035156,
+            70.89099884033203,
+            326.84051513671875
+          ],
+          "text": "July",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            333.7875061035156,
+            83.57349395751953,
+            346.84051513671875
+          ],
+          "text": "August",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            353.7875061035156,
+            100.46448516845703,
+            366.84051513671875
+          ],
+          "text": "September",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            373.7875061035156,
+            87.79148864746094,
+            386.84051513671875
+          ],
+          "text": "October",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            393.7875061035156,
+            97.8139877319336,
+            406.84051513671875
+          ],
+          "text": "November",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            413.7875061035156,
+            97.8139877319336,
+            426.84051513671875
+          ],
+          "text": "December",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            433.7875061035156,
+            75.12799835205078,
+            446.84051513671875
+          ],
+          "text": "2005",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            453.7875061035156,
+            98.34599304199219,
+            466.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            473.7875061035156,
+            87.79148864746094,
+            486.84051513671875
+          ],
+          "text": "January",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            493.7875061035156,
+            92.00949096679688,
+            506.84051513671875
+          ],
+          "text": "February",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            513.7874755859375,
+            80.39099884033203,
+            526.8405151367188
+          ],
+          "text": "March",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            533.7874755859375,
+            73.0,
+            546.8405151367188
+          ],
+          "text": "April",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            553.7874755859375,
+            71.94550323486328,
+            566.8405151367188
+          ],
+          "text": "May",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            573.7874755859375,
+            74.59599304199219,
+            586.8405151367188
+          ],
+          "text": "June",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            593.7874755859375,
+            70.89099884033203,
+            606.8405151367188
+          ],
+          "text": "July",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            613.7874755859375,
+            83.57349395751953,
+            626.8405151367188
+          ],
+          "text": "August",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            633.7874755859375,
+            100.46448516845703,
+            646.8405151367188
+          ],
+          "text": "September",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            653.7874755859375,
+            87.79148864746094,
+            666.8405151367188
+          ],
+          "text": "October",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            673.7874755859375,
+            97.8139877319336,
+            686.8405151367188
+          ],
+          "text": "November",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            693.7874755859375,
+            97.8139877319336,
+            706.8405151367188
+          ],
+          "text": "December",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            713.7874755859375,
+            75.12799835205078,
+            726.8405151367188
+          ],
+          "text": "2004",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            733.7874755859375,
+            98.34599304199219,
+            746.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 34
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 14 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 35
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 15,
+      "text": "January\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2003\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2002\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nPage 15 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            79.7874984741211,
+            87.79148864746094,
+            92.84049987792969
+          ],
+          "text": "January",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            99.7874984741211,
+            92.00949096679688,
+            112.84049987792969
+          ],
+          "text": "February",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            119.7874984741211,
+            80.39099884033203,
+            132.8404998779297
+          ],
+          "text": "March",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            139.78750610351562,
+            73.0,
+            152.8404998779297
+          ],
+          "text": "April",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            159.78750610351562,
+            71.94550323486328,
+            172.8404998779297
+          ],
+          "text": "May",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            179.78750610351562,
+            74.59599304199219,
+            192.8404998779297
+          ],
+          "text": "June",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            199.78750610351562,
+            70.89099884033203,
+            212.8404998779297
+          ],
+          "text": "July",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            219.78750610351562,
+            83.57349395751953,
+            232.8404998779297
+          ],
+          "text": "August",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            239.78750610351562,
+            100.46448516845703,
+            252.8404998779297
+          ],
+          "text": "September",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            259.7875061035156,
+            87.79148864746094,
+            272.84051513671875
+          ],
+          "text": "October",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            279.7875061035156,
+            97.8139877319336,
+            292.84051513671875
+          ],
+          "text": "November",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            299.7875061035156,
+            97.8139877319336,
+            312.84051513671875
+          ],
+          "text": "December",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            319.7875061035156,
+            75.12799835205078,
+            332.84051513671875
+          ],
+          "text": "2003",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            339.7875061035156,
+            98.34599304199219,
+            352.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            359.7875061035156,
+            87.79148864746094,
+            372.84051513671875
+          ],
+          "text": "January",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            379.7875061035156,
+            92.00949096679688,
+            392.84051513671875
+          ],
+          "text": "February",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            399.7875061035156,
+            80.39099884033203,
+            412.84051513671875
+          ],
+          "text": "March",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            419.7875061035156,
+            73.0,
+            432.84051513671875
+          ],
+          "text": "April",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            439.7875061035156,
+            71.94550323486328,
+            452.84051513671875
+          ],
+          "text": "May",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            459.7875061035156,
+            74.59599304199219,
+            472.84051513671875
+          ],
+          "text": "June",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            479.7875061035156,
+            70.89099884033203,
+            492.84051513671875
+          ],
+          "text": "July",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            499.7875061035156,
+            83.57349395751953,
+            512.8405151367188
+          ],
+          "text": "August",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            519.7874755859375,
+            100.46448516845703,
+            532.8405151367188
+          ],
+          "text": "September",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            539.7874755859375,
+            87.79148864746094,
+            552.8405151367188
+          ],
+          "text": "October",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            559.7874755859375,
+            97.8139877319336,
+            572.8405151367188
+          ],
+          "text": "November",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            579.7874755859375,
+            97.8139877319336,
+            592.8405151367188
+          ],
+          "text": "December",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            599.7874755859375,
+            75.12799835205078,
+            612.8405151367188
+          ],
+          "text": "2002",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            619.7874755859375,
+            98.34599304199219,
+            632.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            639.7874755859375,
+            87.79148864746094,
+            652.8405151367188
+          ],
+          "text": "January",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            659.7874755859375,
+            92.00949096679688,
+            672.8405151367188
+          ],
+          "text": "February",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            679.7874755859375,
+            80.39099884033203,
+            692.8405151367188
+          ],
+          "text": "March",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            699.7874755859375,
+            73.0,
+            712.8405151367188
+          ],
+          "text": "April",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            719.7874755859375,
+            71.94550323486328,
+            732.8405151367188
+          ],
+          "text": "May",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 15 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 34
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 16,
+      "text": "June\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2001\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2000\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nPage 16 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            73.7874984741211,
+            74.59599304199219,
+            86.84049987792969
+          ],
+          "text": "June",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            93.7874984741211,
+            70.89099884033203,
+            106.84049987792969
+          ],
+          "text": "July",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            113.7874984741211,
+            83.57349395751953,
+            126.84049987792969
+          ],
+          "text": "August",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            133.78750610351562,
+            100.46448516845703,
+            146.8404998779297
+          ],
+          "text": "September",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            153.78750610351562,
+            87.79148864746094,
+            166.8404998779297
+          ],
+          "text": "October",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            173.78750610351562,
+            97.8139877319336,
+            186.8404998779297
+          ],
+          "text": "November",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            193.78750610351562,
+            97.8139877319336,
+            206.8404998779297
+          ],
+          "text": "December",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            213.78750610351562,
+            75.12799835205078,
+            226.8404998779297
+          ],
+          "text": "2001",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            233.78750610351562,
+            98.34599304199219,
+            246.8404998779297
+          ],
+          "text": "All Months",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            253.78750610351562,
+            87.79148864746094,
+            266.84051513671875
+          ],
+          "text": "January",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            273.7875061035156,
+            92.00949096679688,
+            286.84051513671875
+          ],
+          "text": "February",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            293.7875061035156,
+            80.39099884033203,
+            306.84051513671875
+          ],
+          "text": "March",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            313.7875061035156,
+            73.0,
+            326.84051513671875
+          ],
+          "text": "April",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            333.7875061035156,
+            71.94550323486328,
+            346.84051513671875
+          ],
+          "text": "May",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            353.7875061035156,
+            74.59599304199219,
+            366.84051513671875
+          ],
+          "text": "June",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            373.7875061035156,
+            70.89099884033203,
+            386.84051513671875
+          ],
+          "text": "July",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            393.7875061035156,
+            83.57349395751953,
+            406.84051513671875
+          ],
+          "text": "August",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            413.7875061035156,
+            100.46448516845703,
+            426.84051513671875
+          ],
+          "text": "September",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            433.7875061035156,
+            87.79148864746094,
+            446.84051513671875
+          ],
+          "text": "October",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            453.7875061035156,
+            97.8139877319336,
+            466.84051513671875
+          ],
+          "text": "November",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            473.7875061035156,
+            97.8139877319336,
+            486.84051513671875
+          ],
+          "text": "December",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            493.7875061035156,
+            75.12799835205078,
+            506.84051513671875
+          ],
+          "text": "2000",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            513.7874755859375,
+            98.34599304199219,
+            526.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            533.7874755859375,
+            87.79148864746094,
+            546.8405151367188
+          ],
+          "text": "January",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            553.7874755859375,
+            92.00949096679688,
+            566.8405151367188
+          ],
+          "text": "February",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            573.7874755859375,
+            80.39099884033203,
+            586.8405151367188
+          ],
+          "text": "March",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            593.7874755859375,
+            73.0,
+            606.8405151367188
+          ],
+          "text": "April",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            613.7874755859375,
+            71.94550323486328,
+            626.8405151367188
+          ],
+          "text": "May",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            633.7874755859375,
+            74.59599304199219,
+            646.8405151367188
+          ],
+          "text": "June",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            653.7874755859375,
+            70.89099884033203,
+            666.8405151367188
+          ],
+          "text": "July",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            673.7874755859375,
+            83.57349395751953,
+            686.8405151367188
+          ],
+          "text": "August",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            693.7874755859375,
+            100.46448516845703,
+            706.8405151367188
+          ],
+          "text": "September",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            713.7874755859375,
+            87.79148864746094,
+            726.8405151367188
+          ],
+          "text": "October",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            733.7874755859375,
+            97.8139877319336,
+            746.8405151367188
+          ],
+          "text": "November",
+          "block_id": 34
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 16 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 35
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 17,
+      "text": "December\n\n1999\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1998\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1997\n\nAll Months\n\nJanuary\n\nFebruary\n\nPage 17 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            79.7874984741211,
+            97.8139877319336,
+            92.84049987792969
+          ],
+          "text": "December",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            99.7874984741211,
+            75.12799835205078,
+            112.84049987792969
+          ],
+          "text": "1999",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            119.7874984741211,
+            98.34599304199219,
+            132.8404998779297
+          ],
+          "text": "All Months",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            139.78750610351562,
+            87.79148864746094,
+            152.8404998779297
+          ],
+          "text": "January",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            159.78750610351562,
+            92.00949096679688,
+            172.8404998779297
+          ],
+          "text": "February",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            179.78750610351562,
+            80.39099884033203,
+            192.8404998779297
+          ],
+          "text": "March",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            199.78750610351562,
+            73.0,
+            212.8404998779297
+          ],
+          "text": "April",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            219.78750610351562,
+            71.94550323486328,
+            232.8404998779297
+          ],
+          "text": "May",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            239.78750610351562,
+            74.59599304199219,
+            252.8404998779297
+          ],
+          "text": "June",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            259.7875061035156,
+            70.89099884033203,
+            272.84051513671875
+          ],
+          "text": "July",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            279.7875061035156,
+            83.57349395751953,
+            292.84051513671875
+          ],
+          "text": "August",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            299.7875061035156,
+            100.46448516845703,
+            312.84051513671875
+          ],
+          "text": "September",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            319.7875061035156,
+            87.79148864746094,
+            332.84051513671875
+          ],
+          "text": "October",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            339.7875061035156,
+            97.8139877319336,
+            352.84051513671875
+          ],
+          "text": "November",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            359.7875061035156,
+            97.8139877319336,
+            372.84051513671875
+          ],
+          "text": "December",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            379.7875061035156,
+            75.12799835205078,
+            392.84051513671875
+          ],
+          "text": "1998",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            399.7875061035156,
+            98.34599304199219,
+            412.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            419.7875061035156,
+            87.79148864746094,
+            432.84051513671875
+          ],
+          "text": "January",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            439.7875061035156,
+            92.00949096679688,
+            452.84051513671875
+          ],
+          "text": "February",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            459.7875061035156,
+            80.39099884033203,
+            472.84051513671875
+          ],
+          "text": "March",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            479.7875061035156,
+            73.0,
+            492.84051513671875
+          ],
+          "text": "April",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            499.7875061035156,
+            71.94550323486328,
+            512.8405151367188
+          ],
+          "text": "May",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            519.7874755859375,
+            74.59599304199219,
+            532.8405151367188
+          ],
+          "text": "June",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            539.7874755859375,
+            70.89099884033203,
+            552.8405151367188
+          ],
+          "text": "July",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            559.7874755859375,
+            83.57349395751953,
+            572.8405151367188
+          ],
+          "text": "August",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            579.7874755859375,
+            100.46448516845703,
+            592.8405151367188
+          ],
+          "text": "September",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            599.7874755859375,
+            87.79148864746094,
+            612.8405151367188
+          ],
+          "text": "October",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            619.7874755859375,
+            97.8139877319336,
+            632.8405151367188
+          ],
+          "text": "November",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            639.7874755859375,
+            97.8139877319336,
+            652.8405151367188
+          ],
+          "text": "December",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            659.7874755859375,
+            75.12799835205078,
+            672.8405151367188
+          ],
+          "text": "1997",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            679.7874755859375,
+            98.34599304199219,
+            692.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            699.7874755859375,
+            87.79148864746094,
+            712.8405151367188
+          ],
+          "text": "January",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            719.7874755859375,
+            92.00949096679688,
+            732.8405151367188
+          ],
+          "text": "February",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 17 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 34
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 18,
+      "text": "March\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1996\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1995\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nPage 18 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            73.7874984741211,
+            80.39099884033203,
+            86.84049987792969
+          ],
+          "text": "March",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            93.7874984741211,
+            73.0,
+            106.84049987792969
+          ],
+          "text": "April",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            113.7874984741211,
+            71.94550323486328,
+            126.84049987792969
+          ],
+          "text": "May",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            133.78750610351562,
+            74.59599304199219,
+            146.8404998779297
+          ],
+          "text": "June",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            153.78750610351562,
+            70.89099884033203,
+            166.8404998779297
+          ],
+          "text": "July",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            173.78750610351562,
+            83.57349395751953,
+            186.8404998779297
+          ],
+          "text": "August",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            193.78750610351562,
+            100.46448516845703,
+            206.8404998779297
+          ],
+          "text": "September",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            213.78750610351562,
+            87.79148864746094,
+            226.8404998779297
+          ],
+          "text": "October",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            233.78750610351562,
+            97.8139877319336,
+            246.8404998779297
+          ],
+          "text": "November",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            253.78750610351562,
+            97.8139877319336,
+            266.84051513671875
+          ],
+          "text": "December",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            273.7875061035156,
+            75.12799835205078,
+            286.84051513671875
+          ],
+          "text": "1996",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            293.7875061035156,
+            98.34599304199219,
+            306.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            313.7875061035156,
+            87.79148864746094,
+            326.84051513671875
+          ],
+          "text": "January",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            333.7875061035156,
+            92.00949096679688,
+            346.84051513671875
+          ],
+          "text": "February",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            353.7875061035156,
+            80.39099884033203,
+            366.84051513671875
+          ],
+          "text": "March",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            373.7875061035156,
+            73.0,
+            386.84051513671875
+          ],
+          "text": "April",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            393.7875061035156,
+            71.94550323486328,
+            406.84051513671875
+          ],
+          "text": "May",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            413.7875061035156,
+            74.59599304199219,
+            426.84051513671875
+          ],
+          "text": "June",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            433.7875061035156,
+            70.89099884033203,
+            446.84051513671875
+          ],
+          "text": "July",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            453.7875061035156,
+            83.57349395751953,
+            466.84051513671875
+          ],
+          "text": "August",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            473.7875061035156,
+            100.46448516845703,
+            486.84051513671875
+          ],
+          "text": "September",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            493.7875061035156,
+            87.79148864746094,
+            506.84051513671875
+          ],
+          "text": "October",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            513.7874755859375,
+            97.8139877319336,
+            526.8405151367188
+          ],
+          "text": "November",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            533.7874755859375,
+            97.8139877319336,
+            546.8405151367188
+          ],
+          "text": "December",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            553.7874755859375,
+            75.12799835205078,
+            566.8405151367188
+          ],
+          "text": "1995",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            573.7874755859375,
+            98.34599304199219,
+            586.8405151367188
+          ],
+          "text": "All Months",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            593.7874755859375,
+            87.79148864746094,
+            606.8405151367188
+          ],
+          "text": "January",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            613.7874755859375,
+            92.00949096679688,
+            626.8405151367188
+          ],
+          "text": "February",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            633.7874755859375,
+            80.39099884033203,
+            646.8405151367188
+          ],
+          "text": "March",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            653.7874755859375,
+            73.0,
+            666.8405151367188
+          ],
+          "text": "April",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            673.7874755859375,
+            71.94550323486328,
+            686.8405151367188
+          ],
+          "text": "May",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            693.7874755859375,
+            74.59599304199219,
+            706.8405151367188
+          ],
+          "text": "June",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            713.7874755859375,
+            70.89099884033203,
+            726.8405151367188
+          ],
+          "text": "July",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            733.7874755859375,
+            83.57349395751953,
+            746.8405151367188
+          ],
+          "text": "August",
+          "block_id": 34
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 18 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 35
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 19,
+      "text": "September\n\nOctober\n\nNovember\n\nDecember\n\n1994\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1993\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1992\n\nPage 19 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            79.7874984741211,
+            100.46448516845703,
+            92.84049987792969
+          ],
+          "text": "September",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            99.7874984741211,
+            87.79148864746094,
+            112.84049987792969
+          ],
+          "text": "October",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            119.7874984741211,
+            97.8139877319336,
+            132.8404998779297
+          ],
+          "text": "November",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            139.78750610351562,
+            97.8139877319336,
+            152.8404998779297
+          ],
+          "text": "December",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            159.78750610351562,
+            75.12799835205078,
+            172.8404998779297
+          ],
+          "text": "1994",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            179.78750610351562,
+            98.34599304199219,
+            192.8404998779297
+          ],
+          "text": "All Months",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            199.78750610351562,
+            87.79148864746094,
+            212.8404998779297
+          ],
+          "text": "January",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            219.78750610351562,
+            92.00949096679688,
+            232.8404998779297
+          ],
+          "text": "February",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            239.78750610351562,
+            80.39099884033203,
+            252.8404998779297
+          ],
+          "text": "March",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            259.7875061035156,
+            73.0,
+            272.84051513671875
+          ],
+          "text": "April",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            279.7875061035156,
+            71.94550323486328,
+            292.84051513671875
+          ],
+          "text": "May",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            299.7875061035156,
+            74.59599304199219,
+            312.84051513671875
+          ],
+          "text": "June",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            319.7875061035156,
+            70.89099884033203,
+            332.84051513671875
+          ],
+          "text": "July",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            339.7875061035156,
+            83.57349395751953,
+            352.84051513671875
+          ],
+          "text": "August",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            359.7875061035156,
+            100.46448516845703,
+            372.84051513671875
+          ],
+          "text": "September",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            379.7875061035156,
+            87.79148864746094,
+            392.84051513671875
+          ],
+          "text": "October",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            399.7875061035156,
+            97.8139877319336,
+            412.84051513671875
+          ],
+          "text": "November",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            419.7875061035156,
+            97.8139877319336,
+            432.84051513671875
+          ],
+          "text": "December",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            439.7875061035156,
+            75.12799835205078,
+            452.84051513671875
+          ],
+          "text": "1993",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            459.7875061035156,
+            98.34599304199219,
+            472.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            479.7875061035156,
+            87.79148864746094,
+            492.84051513671875
+          ],
+          "text": "January",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            499.7875061035156,
+            92.00949096679688,
+            512.8405151367188
+          ],
+          "text": "February",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            519.7874755859375,
+            80.39099884033203,
+            532.8405151367188
+          ],
+          "text": "March",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            539.7874755859375,
+            73.0,
+            552.8405151367188
+          ],
+          "text": "April",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            559.7874755859375,
+            71.94550323486328,
+            572.8405151367188
+          ],
+          "text": "May",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            579.7874755859375,
+            74.59599304199219,
+            592.8405151367188
+          ],
+          "text": "June",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            599.7874755859375,
+            70.89099884033203,
+            612.8405151367188
+          ],
+          "text": "July",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            619.7874755859375,
+            83.57349395751953,
+            632.8405151367188
+          ],
+          "text": "August",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            639.7874755859375,
+            100.46448516845703,
+            652.8405151367188
+          ],
+          "text": "September",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            659.7874755859375,
+            87.79148864746094,
+            672.8405151367188
+          ],
+          "text": "October",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            679.7874755859375,
+            97.8139877319336,
+            692.8405151367188
+          ],
+          "text": "November",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            699.7874755859375,
+            97.8139877319336,
+            712.8405151367188
+          ],
+          "text": "December",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            719.7874755859375,
+            75.12799835205078,
+            732.8405151367188
+          ],
+          "text": "1992",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 19 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 34
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 20,
+      "text": "All Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1991\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\nTop\n\nBack to previous page\n\nMore\n\nLinks\n\nBank Holidays\n\nBanking Glossary\n\nCitizen's Charter\n\nPage 20 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            73.7874984741211,
+            98.34599304199219,
+            86.84049987792969
+          ],
+          "text": "All Months",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            93.7874984741211,
+            87.79148864746094,
+            106.84049987792969
+          ],
+          "text": "January",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            113.7874984741211,
+            92.00949096679688,
+            126.84049987792969
+          ],
+          "text": "February",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            133.78750610351562,
+            80.39099884033203,
+            146.8404998779297
+          ],
+          "text": "March",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            153.78750610351562,
+            73.0,
+            166.8404998779297
+          ],
+          "text": "April",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            173.78750610351562,
+            71.94550323486328,
+            186.8404998779297
+          ],
+          "text": "May",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            193.78750610351562,
+            74.59599304199219,
+            206.8404998779297
+          ],
+          "text": "June",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            213.78750610351562,
+            70.89099884033203,
+            226.8404998779297
+          ],
+          "text": "July",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            233.78750610351562,
+            83.57349395751953,
+            246.8404998779297
+          ],
+          "text": "August",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            253.78750610351562,
+            100.46448516845703,
+            266.84051513671875
+          ],
+          "text": "September",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            273.7875061035156,
+            87.79148864746094,
+            286.84051513671875
+          ],
+          "text": "October",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            293.7875061035156,
+            97.8139877319336,
+            306.84051513671875
+          ],
+          "text": "November",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            313.7875061035156,
+            97.8139877319336,
+            326.84051513671875
+          ],
+          "text": "December",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            333.7875061035156,
+            75.12799835205078,
+            346.84051513671875
+          ],
+          "text": "1991",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            353.7875061035156,
+            98.34599304199219,
+            366.84051513671875
+          ],
+          "text": "All Months",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            373.7875061035156,
+            87.79148864746094,
+            386.84051513671875
+          ],
+          "text": "January",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            393.7875061035156,
+            92.00949096679688,
+            406.84051513671875
+          ],
+          "text": "February",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            413.7875061035156,
+            80.39099884033203,
+            426.84051513671875
+          ],
+          "text": "March",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            433.7875061035156,
+            73.0,
+            446.84051513671875
+          ],
+          "text": "April",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            453.7875061035156,
+            71.94550323486328,
+            466.84051513671875
+          ],
+          "text": "May",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            473.7875061035156,
+            74.59599304199219,
+            486.84051513671875
+          ],
+          "text": "June",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            493.7875061035156,
+            70.89099884033203,
+            506.84051513671875
+          ],
+          "text": "July",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            513.7874755859375,
+            83.57349395751953,
+            526.8405151367188
+          ],
+          "text": "August",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            533.7874755859375,
+            100.46448516845703,
+            546.8405151367188
+          ],
+          "text": "September",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            553.7874755859375,
+            87.79148864746094,
+            566.8405151367188
+          ],
+          "text": "October",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            573.7874755859375,
+            97.8139877319336,
+            586.8405151367188
+          ],
+          "text": "November",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            593.7874755859375,
+            97.8139877319336,
+            606.8405151367188
+          ],
+          "text": "December",
+          "block_id": 27
+        },
+        {
+          "bbox": [
+            54.0,
+            613.7874755859375,
+            70.36849975585938,
+            626.8405151367188
+          ],
+          "text": "Top",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            633.7874755859375,
+            147.99298095703125,
+            646.8405151367188
+          ],
+          "text": "Back to previous page",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            653.7874755859375,
+            75.64099884033203,
+            666.8405151367188
+          ],
+          "text": "More",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            673.7874755859375,
+            76.17300415039062,
+            686.8405151367188
+          ],
+          "text": "Links",
+          "block_id": 31
+        },
+        {
+          "bbox": [
+            54.0,
+            693.7874755859375,
+            114.71449279785156,
+            706.8405151367188
+          ],
+          "text": "Bank Holidays",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            713.7874755859375,
+            128.44198608398438,
+            726.8405151367188
+          ],
+          "text": "Banking Glossary",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            733.7874755859375,
+            123.91048431396484,
+            746.8405151367188
+          ],
+          "text": "Citizen's Charter",
+          "block_id": 34
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 20 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 35
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 21,
+      "text": "Complaints\n\nCOVID-19 Measures\n\nE-LMS\n\nEvents\n\nFAQs\n\nFinancial Education\n\nForms\n\nIFSC/MICR Codes\n\nImportant Websites\n\nOpportunities\n\n@\n\nRBI\n\nRBI Clarifications\n\nRBI Kehta Hai\n\nRBI·s Vision and Values\n\n(652 kb)\n\nRight to Information Act\n\nTenders\n\nFollow\n\nRBI\n\nRSS\n\nTwitter\n\nYouTube\n\nInstagram\n\nFacebook\n\nLinkedIn\n\nSitemap\n\n|\n\nDisclaimer\n\nWebsite last updated date: Nov 14, 2026\n\nWeb Information Manager\n\nPage 21 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            79.7874984741211,
+            101.50949096679688,
+            92.84049987792969
+          ],
+          "text": "Complaints",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            99.7874984741211,
+            142.1599884033203,
+            112.84049987792969
+          ],
+          "text": "COVID-19 Measures",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            119.7874984741211,
+            83.0320053100586,
+            132.8404998779297
+          ],
+          "text": "E-LMS",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            139.78750610351562,
+            83.04149627685547,
+            152.8404998779297
+          ],
+          "text": "Events",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            159.78750610351562,
+            78.28199768066406,
+            172.8404998779297
+          ],
+          "text": "FAQs",
+          "block_id": 5
+        },
+        {
+          "bbox": [
+            54.0,
+            179.78750610351562,
+            136.89698791503906,
+            192.8404998779297
+          ],
+          "text": "Financial Education",
+          "block_id": 6
+        },
+        {
+          "bbox": [
+            54.0,
+            199.78750610351562,
+            80.91349792480469,
+            212.8404998779297
+          ],
+          "text": "Forms",
+          "block_id": 7
+        },
+        {
+          "bbox": [
+            54.0,
+            219.78750610351562,
+            132.65048217773438,
+            232.8404998779297
+          ],
+          "text": "IFSC/MICR Codes",
+          "block_id": 8
+        },
+        {
+          "bbox": [
+            54.0,
+            239.78750610351562,
+            135.83297729492188,
+            252.8404998779297
+          ],
+          "text": "Important Websites",
+          "block_id": 9
+        },
+        {
+          "bbox": [
+            54.0,
+            259.7875061035156,
+            110.4964828491211,
+            272.84051513671875
+          ],
+          "text": "Opportunities",
+          "block_id": 10
+        },
+        {
+          "bbox": [
+            54.0,
+            279.7875061035156,
+            63.64250183105469,
+            292.84051513671875
+          ],
+          "text": "@",
+          "block_id": 11
+        },
+        {
+          "bbox": [
+            54.0,
+            299.7875061035156,
+            69.83650207519531,
+            312.84051513671875
+          ],
+          "text": "RBI",
+          "block_id": 12
+        },
+        {
+          "bbox": [
+            54.0,
+            319.7875061035156,
+            126.84599304199219,
+            332.84051513671875
+          ],
+          "text": "RBI Clarifications",
+          "block_id": 13
+        },
+        {
+          "bbox": [
+            54.0,
+            339.7875061035156,
+            114.1919937133789,
+            352.84051513671875
+          ],
+          "text": "RBI Kehta Hai",
+          "block_id": 14
+        },
+        {
+          "bbox": [
+            54.0,
+            359.7875061035156,
+            155.90647888183594,
+            372.84051513671875
+          ],
+          "text": "RBI·s Vision and Values",
+          "block_id": 15
+        },
+        {
+          "bbox": [
+            54.0,
+            379.7875061035156,
+            88.84599304199219,
+            392.84051513671875
+          ],
+          "text": "(652 kb)",
+          "block_id": 16
+        },
+        {
+          "bbox": [
+            54.0,
+            399.7875061035156,
+            153.26548767089844,
+            412.84051513671875
+          ],
+          "text": "Right to Information Act",
+          "block_id": 17
+        },
+        {
+          "bbox": [
+            54.0,
+            419.7875061035156,
+            88.84599304199219,
+            432.84051513671875
+          ],
+          "text": "Tenders",
+          "block_id": 18
+        },
+        {
+          "bbox": [
+            54.0,
+            439.7875061035156,
+            81.44550323486328,
+            452.84051513671875
+          ],
+          "text": "Follow",
+          "block_id": 19
+        },
+        {
+          "bbox": [
+            54.0,
+            459.7875061035156,
+            69.83650207519531,
+            472.84051513671875
+          ],
+          "text": "RBI",
+          "block_id": 20
+        },
+        {
+          "bbox": [
+            54.0,
+            479.7875061035156,
+            73.5320053100586,
+            492.84051513671875
+          ],
+          "text": "RSS",
+          "block_id": 21
+        },
+        {
+          "bbox": [
+            54.0,
+            499.7875061035156,
+            82.49999237060547,
+            512.8405151367188
+          ],
+          "text": "Twitter",
+          "block_id": 22
+        },
+        {
+          "bbox": [
+            54.0,
+            519.7874755859375,
+            92.55098724365234,
+            532.8405151367188
+          ],
+          "text": "YouTube",
+          "block_id": 23
+        },
+        {
+          "bbox": [
+            54.0,
+            539.7874755859375,
+            96.23699188232422,
+            552.8405151367188
+          ],
+          "text": "Instagram",
+          "block_id": 24
+        },
+        {
+          "bbox": [
+            54.0,
+            559.7874755859375,
+            95.71449279785156,
+            572.8405151367188
+          ],
+          "text": "Facebook",
+          "block_id": 25
+        },
+        {
+          "bbox": [
+            54.0,
+            579.7874755859375,
+            89.90999603271484,
+            592.8405151367188
+          ],
+          "text": "LinkedIn",
+          "block_id": 26
+        },
+        {
+          "bbox": [
+            54.0,
+            619.7874755859375,
+            88.84599304199219,
+            632.8405151367188
+          ],
+          "text": "Sitemap",
+          "block_id": 28
+        },
+        {
+          "bbox": [
+            54.0,
+            639.7874755859375,
+            56.470001220703125,
+            652.8405151367188
+          ],
+          "text": "|",
+          "block_id": 29
+        },
+        {
+          "bbox": [
+            54.0,
+            659.7874755859375,
+            98.32699584960938,
+            672.8405151367188
+          ],
+          "text": "Disclaimer",
+          "block_id": 30
+        },
+        {
+          "bbox": [
+            54.0,
+            713.7874755859375,
+            225.6269989013672,
+            726.8405151367188
+          ],
+          "text": "Website last updated date: Nov 14, 2026",
+          "block_id": 32
+        },
+        {
+          "bbox": [
+            54.0,
+            733.7874755859375,
+            163.81996154785156,
+            746.8405151367188
+          ],
+          "text": "Web Information Manager",
+          "block_id": 33
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 21 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 34
+        }
+      ],
+      "tables": []
+    },
+    {
+      "page_number": 22,
+      "text": "Accessibility Statement\n\n(133 KB)\n\n|\n\nSupports: Google Chrome 147+ | Firefox 150+ | Microsoft Edge Version 147+ | Safari\n17+\n\nPage 22 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+      "blocks": [
+        {
+          "bbox": [
+            54.0,
+            79.7874984741211,
+            151.66949462890625,
+            92.84049987792969
+          ],
+          "text": "Accessibility Statement",
+          "block_id": 1
+        },
+        {
+          "bbox": [
+            54.0,
+            99.7874984741211,
+            91.48699951171875,
+            112.84049987792969
+          ],
+          "text": "(133 KB)",
+          "block_id": 2
+        },
+        {
+          "bbox": [
+            54.0,
+            119.7874984741211,
+            56.470001220703125,
+            132.8404998779297
+          ],
+          "text": "|",
+          "block_id": 3
+        },
+        {
+          "bbox": [
+            54.0,
+            139.78750610351562,
+            411.7606201171875,
+            166.8404998779297
+          ],
+          "text": "Supports: Google Chrome 147+ | Firefox 150+ | Microsoft Edge Version 147+ | Safari\n17+",
+          "block_id": 4
+        },
+        {
+          "bbox": [
+            54.0,
+            774.4000244140625,
+            241.93597412109375,
+            785.3920288085938
+          ],
+          "text": "Page 22 | FinReg AI Corpus: RBI_TAT_COMP_2019",
+          "block_id": 5
+        }
+      ],
+      "tables": []
+    }
+  ],
+  "full_document_text": "RESERVE BANK OF INDIA\nDEPARTMENT OF REGULATION / PAYMENT AND SETTLEMENT SYSTEMS\nCENTRAL OFFICE, MUMBAI\n\nCircular: DPSS.CO.PD No.629/02.01.014/2019-20\nDate: 2019-09-20\n\nHARMONISATION OF TURN AROUND TIME (TAT) AND CUSTOMER COMPENSATION FOR FAILED\nTRANSACTIONS\n\n=========================================================================================\n\nHarmonisation of Turn Around Time (TAT) and customer compensation for failed\ntransactions using authorised Payment Systems\n\nRBI/2019-20/67\n\nDPSS.CO.PD No.629/02.01.014/2019-20\n\nSeptember 20, 2019\n\nAll Operators and Participants of Authorised Payment Systems\n\nMadam / Dear Sir,\n\nHarmonisation of Turn Around Time (TAT) and customer compensation for failed\ntransactions using authorised Payment Systems\n\nPlease refer to the\n\nStatement on Developmental and Regulatory policies\n\nissued as part of Monetary Policy statement dated April 4, 2019 wherein it was\nproposed that the Reserve Bank would put in place a framework on Turn Around Time\n(TAT) for resolution of customer complaints and compensation framework across all\nauthorised payment systems.\n\n2. It has been observed that a large number of customer complaints emanate on account\nof unsuccessful or ·failed· transactions. Failure could be on account of various\nfactors not directly attributable to the customer such as disruption of communication\nlinks, non-availability of cash in ATMs, time-out of sessions, non-credit to\nbeneficiary·s account due to various causes, etc. Rectification / Compensation paid\nto the customer for these ·failed· transactions is not uniform.\n\n3. After consultation with various stakeholders, the framework for TAT for failed\ntransactions and compensation therefor has been finalised which will result in\ncustomer confidence and bring in uniformity in processing of the failed transactions.\nThe same is enclosed as\n\nAnnex\n\nto this circular.\n\n4. It may be noted that :\n\nthe prescribed TAT is the outer limit for resolution of failed transactions; and\n\nPage 1 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nthe banks and other operators / system participants shall endeavour towards quicker\nresolution of such failed transactions.\n\n5. Wherever financial compensation is involved, the same shall be effected to the\ncustomer·s account suo moto, without waiting for a complaint or claim from the\ncustomer.\n\n6. Customers who do not get the benefit of redress of the failure as defined in the\nTAT, can register a complaint with the\n\nReserve Bank - Integrated Ombudsman Scheme, 2021\n\n(as amended from time to time).\n\n7. This directive is issued under Section 10(2) read with Section 18 of the Payment\nand Settlement Systems Act, 2007 (Act 51 of 2007) and shall come into effect from\nOctober 15, 2019.\n\nYours faithfully\n\n(P. Vasudevan)\n\nChief General Manager\n\nEncl. : As above\n\nAnnex\n\n(Annex to Circular DPSS.CO.PD No.629/02.01.014/2019-20 dated September 20, 2019)\n\nHarmonisation of Turn Around Time (TAT) and customer compensation for\n\nfailed transactions using authorised Payment Systems\n\nGeneral Instructions covering the TAT :\n\n1. The principle behind the TAT is based on the following :\n\nIf the transaction is a ·credit-push· funds transfer and the beneficiary account is\nnot credited while the debit to originator has been effected, then credit is to be\neffected within the prescribed time period failing which the penalty has to be paid\nto the beneficiary;\n\nIf there is delay in initiation of a transaction at the originator bank·s end beyond\nthe TAT, then penalty has to be paid to the originator.\n\n2. A ·failed transaction· is a transaction which has not been fully completed due to\nany reason not attributable to the customer such as failure in communication links,\nnon-availability of cash in an ATM, time-out of sessions, etc. Failed transactions\nshall also include the credits which could not be effected to the beneficiary account\non account of lack of full information or lack of proper information and delay in\ninitiating a reversal transaction.\n\n3. Terms like, Acquirer, Beneficiary, Issuer, Remitter, etc., have meanings as per\ncommon banking parlance.\n\n4. T is the day of transaction and refers to the calendar date.\n\n5. R is the day on which the reversal is concluded and the funds are received by the\nissuer / originator. Reversal should be effected at the issuer / originator end on\n\nPage 2 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nthe same day when the funds are received from the beneficiary end.\n\n6. The term bank includes non-banks also and applies to them wherever they are\nauthorised to operate.\n\n7. Domestic transactions i.e., those where both the originator and beneficiary are\nwithin India are covered under this framework.\n\nHarmonisation of Turn Around Time (TAT) and customer compensation for\n\nfailed transactions using authorised Payment Systems\n\nSl. no.\n\nDescription of the incident\n\nFramework for auto-reversal and compensation\n\nTimeline for auto-reversal\n\nCompensation payable\n\nI\n\nII\n\nIII\n\nIV\n\n1\n\nAutomated Teller Machines (ATMs) including Micro-ATMs\n\na\n\nCustomer·s account debited but cash not dispensed.\n\nPro-active reversal (R) of failed transaction within a maximum of T + 5 days.\n\n· 100/- per day of delay beyond T + 5 days, to the credit of the account holder.\n\n2\n\nCard Transaction\n\na\n\nCard to card transfer\n\nCard account debited but the beneficiary card account not credited.\n\nTransaction to be reversed (R) latest within T + 1 day, if credit is not effected to\nthe beneficiary account.\n\n· 100/- per day of delay beyond T + 1 day.\n\nb\n\nPoint of Sale (PoS) (Card Present) including Cash at PoS\n\nAccount debited but confirmation not received at merchant location i.e., charge-slip\nnot generated.\n\nAuto-reversal within T + 5 days.\n\nPage 3 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\n· 100/- per day of delay beyond T + 5 days.\n\nc\n\nCard Not Present (CNP) (e-commerce)\n\nAccount debited but confirmation not received at merchant·s system.\n\n3\n\nImmediate Payment System (IMPS)\n\na\n\nAccount debited but the beneficiary account is not credited.\n\nIf unable to credit to beneficiary account, auto reversal (R) by the Beneficiary bank\nlatest on T + 1 day.\n\n·100/- per day if delay is beyond T + 1 day.\n\n4\n\nUnified Payments Interface (UPI)\n\na\n\nAccount debited but the beneficiary account is not credited (transfer of funds).\n\nIf unable to credit the beneficiary account, auto reversal (R) by the Beneficiary\nbank latest on T + 1 day.\n\n·100/- per day if delay is beyond T + 1 day.\n\nb\n\nAccount debited but transaction confirmation not received at merchant location\n(payment to merchant).\n\nAuto-reversal within T + 5 days.\n\n·100/- per day if delay is beyond T + 5 days.\n\n5\n\nAadhaar Enabled Payment System (including Aadhaar Pay)\n\na\n\nAccount debited but transaction confirmation not received at merchant location.\n\nAcquirer to initiate ·Credit Adjustment· within T + 5 days.\n\n·100/- per day if delay is beyond T + 5 days.\n\nb\n\nAccount debited but beneficiary account not credited.\n\n6\n\nAadhaar Payment Bridge System (APBS)\n\na\n\nPage 4 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nDelay in crediting beneficiary·s account.\n\nBeneficiary bank to reverse the transaction within T + 1 day.\n\n·100/- per day if delay is beyond T + 1 day.\n\n7\n\nNational Automated Clearing House (NACH)\n\na\n\nDelay in crediting beneficiary·s account or reversal of amount.\n\nBeneficiary bank to reverse the uncredited transaction within T + 1 day.\n\n·100/- per day if delay is beyond T + 1 day.\n\nb\n\nAccount debited despite revocation of debit mandate with the bank by the customer.\n\nCustomer·s bank will be responsible for such debit. Resolution to be completed within\nT + 1 day.\n\n8\n\nPrepaid Payment Instruments (PPIs) · Cards / Wallets\n\na\n\nOff-Us transaction\n\nThe transaction will ride on UPI, card network, IMPS, etc., as the case may be. The\nTAT and compensation rule of respective system shall apply.\n\nb\n\nOn-Us transaction\n\nBeneficiary·s PPI not credited.\n\nPPI debited but transaction confirmation not received at merchant location.\n\nReversal effected in Remitter·s account within T + 1 day.\n\n·100/- per day if delay is beyond T + 1 day.\n\n2026\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nPage 5 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2025\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2024\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2023\n\nPage 6 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2022\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2021\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nPage 7 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2020\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2019\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nPage 8 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nNovember\n\nDecember\n\n2018\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2017\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\nArchives\n\n2016\n\nAll Months\n\nPage 9 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2015\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2014\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nPage 10 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2013\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2012\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nPage 11 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nDecember\n\n2011\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2010\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2009\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nPage 12 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2008\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2007\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nPage 13 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2006\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2005\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2004\n\nAll Months\n\nPage 14 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2003\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2002\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nPage 15 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2001\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n2000\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nPage 16 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nDecember\n\n1999\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1998\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1997\n\nAll Months\n\nJanuary\n\nFebruary\n\nPage 17 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1996\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1995\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nPage 18 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1994\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1993\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1992\n\nPage 19 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\n1991\n\nAll Months\n\nJanuary\n\nFebruary\n\nMarch\n\nApril\n\nMay\n\nJune\n\nJuly\n\nAugust\n\nSeptember\n\nOctober\n\nNovember\n\nDecember\n\nTop\n\nBack to previous page\n\nMore\n\nLinks\n\nBank Holidays\n\nBanking Glossary\n\nCitizen's Charter\n\nPage 20 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nComplaints\n\nCOVID-19 Measures\n\nE-LMS\n\nEvents\n\nFAQs\n\nFinancial Education\n\nForms\n\nIFSC/MICR Codes\n\nImportant Websites\n\nOpportunities\n\n@\n\nRBI\n\nRBI Clarifications\n\nRBI Kehta Hai\n\nRBI·s Vision and Values\n\n(652 kb)\n\nRight to Information Act\n\nTenders\n\nFollow\n\nRBI\n\nRSS\n\nTwitter\n\nYouTube\n\nInstagram\n\nFacebook\n\nLinkedIn\n\nSitemap\n\n|\n\nDisclaimer\n\nWebsite last updated date: Nov 14, 2026\n\nWeb Information Manager\n\nPage 21 | FinReg AI Corpus: RBI_TAT_COMP_2019\n\n--- PAGE BREAK ---\n\nAccessibility Statement\n\n(133 KB)\n\n|\n\nSupports: Google Chrome 147+ | Firefox 150+ | Microsoft Edge Version 147+ | Safari\n17+\n\nPage 22 | FinReg AI Corpus: RBI_TAT_COMP_2019"
+}

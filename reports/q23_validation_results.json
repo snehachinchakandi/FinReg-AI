@@ -1,0 +1,86 @@
+{
+  "q23_results": {
+    "C1": {
+      "config_id": "C1",
+      "name": "Fixed + Dense",
+      "rank": 1,
+      "hit@1": 1.0,
+      "hit@3": 1.0,
+      "hit@5": 1.0,
+      "reciprocal_rank": 1.0,
+      "top1_doc": "RBI_EMANDATE_2019",
+      "top1_score": 0.831807553768158
+    },
+    "C2": {
+      "config_id": "C2",
+      "name": "Fixed + Hybrid RRF",
+      "rank": 1,
+      "hit@1": 1.0,
+      "hit@3": 1.0,
+      "hit@5": 1.0,
+      "reciprocal_rank": 1.0,
+      "top1_doc": "RBI_EMANDATE_2019",
+      "top1_score": 0.03278688524590164
+    },
+    "C3": {
+      "config_id": "C3",
+      "name": "Section + Dense",
+      "rank": 1,
+      "hit@1": 1.0,
+      "hit@3": 1.0,
+      "hit@5": 1.0,
+      "reciprocal_rank": 1.0,
+      "top1_doc": "RBI_EMANDATE_2019",
+      "top1_score": 0.8605155348777771
+    },
+    "C4": {
+      "config_id": "C4",
+      "name": "Section + Hybrid RRF",
+      "rank": 1,
+      "hit@1": 1.0,
+      "hit@3": 1.0,
+      "hit@5": 1.0,
+      "reciprocal_rank": 1.0,
+      "top1_doc": "RBI_EMANDATE_2019",
+      "top1_score": 0.032266458495966696
+    }
+  },
+  "benchmark_summary": [
+    {
+      "Config": "C1",
+      "Name": "Fixed + Dense",
+      "Hit@1": "82.86%",
+      "Hit@3": "100.00%",
+      "Hit@5": "100.00%",
+      "MRR": "0.9143",
+      "Rank-1 Count": "29/35"
+    },
+    {
+      "Config": "C2",
+      "Name": "Fixed + Hybrid RRF",
+      "Hit@1": "94.29%",
+      "Hit@3": "100.00%",
+      "Hit@5": "100.00%",
+      "MRR": "0.9714",
+      "Rank-1 Count": "33/35"
+    },
+    {
+      "Config": "C3",
+      "Name": "Section + Dense",
+      "Hit@1": "80.00%",
+      "Hit@3": "100.00%",
+      "Hit@5": "100.00%",
+      "MRR": "0.8952",
+      "Rank-1 Count": "28/35"
+    },
+    {
+      "Config": "C4",
+      "Name": "Section + Hybrid RRF",
+      "Hit@1": "85.71%",
+      "Hit@3": "94.29%",
+      "Hit@5": "100.00%",
+      "MRR": "0.9129",
+      "Rank-1 Count": "30/35"
+    }
+  ]
+}
